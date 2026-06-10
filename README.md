@@ -218,10 +218,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - UI inspiration from modern Islamic apps
 - Flutter community for excellent documentation
 
-## 📞 Support
-
-For support, email us at: support@revive-app.com
-
 ---
 
-**Revive** - Helping Muslims revive the Sunnah, one day at a time. 🌟 
+**Revive** - Helping Muslims revive the Sunnah, one day at a time.
