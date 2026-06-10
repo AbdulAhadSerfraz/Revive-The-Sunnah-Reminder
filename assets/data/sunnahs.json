@@ -1,0 +1,2242 @@
+[
+  {
+    "id": 1,
+    "title": "Say Bismillah Before Eating",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) said: 'When one of you eats, let him mention the name of Allah. If he forgets to mention the name of Allah at the beginning, let him say: Bismillahi awwaluhu wa aakhiruhu (In the name of Allah at the beginning and at the end).'",
+    "benefit": "Brings blessings to your food and protects from harm",
+    "source": "Abu Dawud 3767, Tirmidhi 1858"
+  },
+  {
+    "id": 2,
+    "title": "Eat with Your Right Hand",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) said: 'When one of you eats, let him eat with his right hand, and when he drinks, let him drink with his right hand, for the Shaytan eats with his left hand and drinks with his left hand.'",
+    "benefit": "Follows the Sunnah and avoids the way of Shaytan",
+    "source": "Muslim 2020"
+  },
+  {
+    "id": 3,
+    "title": "Eat from What is Closest to You",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) said: 'O boy, mention the name of Allah, eat with your right hand, and eat from what is closest to you.'",
+    "benefit": "Shows good manners and prevents waste",
+    "source": "Bukhari 5376, Muslim 2022"
+  },
+  {
+    "id": 4,
+    "title": "Don't Blow on Hot Food",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) never blew on food or drink, nor did he breathe into a vessel.",
+    "benefit": "Maintains cleanliness and good manners",
+    "source": "Abu Dawud 3788"
+  },
+  {
+    "id": 5,
+    "title": "Say Alhamdulillah After Eating",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) said: 'Allah is pleased with His slave when he eats something and praises Him for it, or drinks something and praises Him for it.'",
+    "benefit": "Shows gratitude to Allah and earns His pleasure",
+    "source": "Muslim 2734"
+  },
+  {
+    "id": 6,
+    "title": "Sleep on Your Right Side",
+    "category": "Sleeping",
+    "hadith": "The Prophet (ﷺ) said: 'When you go to bed, perform ablution as you do for prayer, then lie on your right side.'",
+    "benefit": "Better for health and follows the Sunnah",
+    "source": "Bukhari 6311, Muslim 2710"
+  },
+  {
+    "id": 7,
+    "title": "Recite Ayat Al-Kursi Before Sleeping",
+    "category": "Sleeping",
+    "hadith": "The Prophet (ﷺ) said: 'When you go to bed, recite Ayat Al-Kursi, for there will remain with you a protector from Allah, and no Shaytan will approach you until morning.'",
+    "benefit": "Protection from Shaytan throughout the night",
+    "source": "Bukhari 2311"
+  },
+  {
+    "id": 8,
+    "title": "Say the Bedtime Dua",
+    "category": "Sleeping",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever recites this dua before sleeping will not die that night: Bismika Rabbi wa da'atu janbi wa bika arfa'uhu, fa in amsakta nafsi farhamha, wa in arsaltaha fahfazha bima tahfazu bihi 'ibadakas-saliheen.'",
+    "benefit": "Protection and mercy from Allah",
+    "source": "Bukhari 6315, Muslim 2714"
+  },
+  {
+    "id": 9,
+    "title": "Greet with Assalamu Alaikum",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'You will not enter Paradise until you believe, and you will not believe until you love one another. Shall I tell you something which, if you do it, you will love one another? Spread the greeting of peace among yourselves.'",
+    "benefit": "Strengthens brotherhood and earns rewards",
+    "source": "Muslim 54"
+  },
+  {
+    "id": 10,
+    "title": "Smile at Your Brother",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Smiling in the face of your brother is charity.'",
+    "benefit": "Counts as charity and spreads happiness",
+    "source": "Tirmidhi 1956"
+  },
+  {
+    "id": 11,
+    "title": "Visit the Sick",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Feed the hungry, visit the sick, and free the captives.'",
+    "benefit": "Shows compassion and earns great rewards",
+    "source": "Bukhari 5649"
+  },
+  {
+    "id": 12,
+    "title": "Help Your Brother",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Allah helps His slave as long as the slave helps his brother.'",
+    "benefit": "Allah's help comes to those who help others",
+    "source": "Muslim 2699"
+  },
+  {
+    "id": 13,
+    "title": "Enter with Your Right Foot",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) used to enter with his right foot and exit with his left foot.",
+    "benefit": "Follows the Sunnah in daily actions",
+    "source": "Abu Dawud 4186"
+  },
+  {
+    "id": 14,
+    "title": "Say Bismillah Before Entering Home",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'When a man enters his house and mentions the name of Allah when entering and when eating, the Shaytan says to his companions: 'You will find no place to spend the night and no dinner.''",
+    "benefit": "Protection from Shaytan in your home",
+    "source": "Muslim 2018"
+  },
+  {
+    "id": 15,
+    "title": "Wear Clothes Starting with Right Side",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) used to prefer to start with the right side when putting on his shoes, combing his hair, performing ablution, and in all his affairs.",
+    "benefit": "Follows the Sunnah in daily routine",
+    "source": "Bukhari 168, Muslim 268"
+  },
+  {
+    "id": 16,
+    "title": "Remove Shoes with Left Foot",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) used to remove his shoes starting with the left foot.",
+    "benefit": "Follows the Sunnah in daily actions",
+    "source": "Abu Dawud 4140"
+  },
+  {
+    "id": 17,
+    "title": "Say Dua Before Entering Bathroom",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'When entering the bathroom, say: Allahumma inni a'udhu bika minal-khubuthi wal-khaba'ith (O Allah, I seek refuge with You from evil and evil-doers).'",
+    "benefit": "Protection from evil and bad things",
+    "source": "Bukhari 142, Muslim 375"
+  },
+  {
+    "id": 18,
+    "title": "Say Dua After Leaving Bathroom",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'When leaving the bathroom, say: Ghufranak (I seek Your forgiveness).'",
+    "benefit": "Seeks forgiveness and shows gratitude",
+    "source": "Abu Dawud 30, Tirmidhi 7"
+  },
+  {
+    "id": 19,
+    "title": "Use Miswak (Tooth Stick)",
+    "category": "Hygiene",
+    "hadith": "The Prophet (ﷺ) said: 'Were it not for the fact that I did not want to make things too hard for my Ummah, I would have commanded them to use the Miswak before every prayer.'",
+    "benefit": "Cleans mouth and earns rewards",
+    "source": "Bukhari 887, Muslim 252"
+  },
+  {
+    "id": 20,
+    "title": "Trim Your Nails",
+    "category": "Hygiene",
+    "hadith": "The Prophet (ﷺ) said: 'Five things are from the Fitrah: circumcision, shaving the pubic hair, trimming the moustache, cutting the nails, and plucking the armpit hair.'",
+    "benefit": "Maintains cleanliness and follows Fitrah",
+    "source": "Bukhari 5889, Muslim 257"
+  },
+  {
+    "id": 21,
+    "title": "Say Dua Before Looking in Mirror",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) used to say when looking in the mirror: 'Alhamdulillah, as you have made my form beautiful, make my character beautiful as well.'",
+    "benefit": "Reminds us to beautify our character",
+    "source": "Ibn Majah 3800"
+  },
+  {
+    "id": 22,
+    "title": "Say Dua When Hearing Thunder",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'When you hear thunder, say: Subhanalladhi yusabbihur-ra'du bihamdihi wal-mala'ikatu min kheefatihi (Glory be to Allah, Whom the thunder glorifies with His praise, and the angels out of fear of Him).'",
+    "benefit": "Remembers Allah and seeks protection",
+    "source": "Malik 2/992"
+  },
+  {
+    "id": 23,
+    "title": "Say Dua When Entering Market",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever enters the market and says: La ilaha illallah wahdahu la shareeka lah, lahul mulku wa lahul hamdu yuhyi wa yumeet, wa huwa hayyun la yamoot, bi yadihil khayr, wa huwa 'ala kulli shay'in qadeer (There is no god but Allah alone, with no partner, His is the dominion and His is the praise, He gives life and causes death, and He is Living and does not die, in His hand is all good, and He is Able to do all things), Allah will write for him a thousand thousand good deeds and erase from him a thousand thousand bad deeds.'",
+    "benefit": "Earns great rewards and protection",
+    "source": "Tirmidhi 3428"
+  },
+  {
+    "id": 24,
+    "title": "Say Dua When Sneezing",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'When one of you sneezes, let him say: Alhamdulillah (Praise be to Allah), and let his brother or companion say to him: Yarhamuk Allah (May Allah have mercy on you). Then let him say: Yahdeekum Allah wa yuslihu balakum (May Allah guide you and set right your affairs).'",
+    "benefit": "Shows gratitude and good manners",
+    "source": "Bukhari 6224, Muslim 2991"
+  },
+  {
+    "id": 25,
+    "title": "Say Dua When Yawning",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'When one of you yawns, let him suppress it as much as possible, for when one of you says 'Ah', the Shaytan laughs.'",
+    "benefit": "Prevents Shaytan from mocking",
+    "source": "Bukhari 6226, Muslim 2994"
+  },
+  {
+      "id": 26,
+      "title": "Pray on Time",
+      "category": "Prayer",
+      "hadith": "The Prophet (ﷺ) was asked: 'Which deed is the most beloved to Allah?' He said: 'Prayer at its proper time.'",
+      "benefit": "Shows devotion and earns Allah’s love",
+      "source": "Bukhari 527, Muslim 85"
+    },
+    {
+      "id": 27,
+      "title": "Make Wudu Before Sleeping",
+      "category": "Sleeping",
+      "hadith": "The Prophet (ﷺ) said: 'When you go to bed, perform ablution like that for the prayer, then lie on your right side.'",
+      "benefit": "Ends your day in a state of purity",
+      "source": "Bukhari 247, Muslim 2710"
+    },
+    {
+      "id": 28,
+      "title": "Pray in Congregation",
+      "category": "Prayer",
+      "hadith": "The Prophet (ﷺ) said: 'Prayer in congregation is twenty-seven times more rewarding than prayer alone.'",
+      "benefit": "Multiplies reward and builds unity",
+      "source": "Bukhari 645, Muslim 650"
+    },
+    {
+      "id": 29,
+      "title": "Give Charity Secretly",
+      "category": "Charity",
+      "hadith": "The Prophet (ﷺ) said: 'A man who gives in charity and conceals it so that his left hand does not know what his right hand has given will be under the shade of Allah on the Day of Judgment.'",
+      "benefit": "Earns Allah’s shade and sincerity",
+      "source": "Bukhari 1421, Muslim 1031"
+    },
+    {
+      "id": 30,
+      "title": "Avoid Backbiting",
+      "category": "Manners",
+      "hadith": "The Prophet (ﷺ) said: 'Do you know what backbiting is?' They said, 'Allah and His Messenger know best.' He said: 'It is to mention about your brother something he dislikes.'",
+      "benefit": "Maintains honor and avoids major sin",
+      "source": "Muslim 2589"
+    },
+    {
+      "id": 31,
+      "title": "Speak Good or Remain Silent",
+      "category": "Manners",
+      "hadith": "The Prophet (ﷺ) said: 'Whoever believes in Allah and the Last Day, let him speak good or remain silent.'",
+      "benefit": "Prevents harm and increases wisdom",
+      "source": "Bukhari 6018, Muslim 47"
+    },
+    {
+      "id": 32,
+      "title": "Guard the Tongue",
+      "category": "Manners",
+      "hadith": "The Prophet (ﷺ) said: 'A man speaks a word, thinking it harmless, but because of it he falls into the Hellfire farther than the distance between the east and west.'",
+      "benefit": "Protects from sins of the tongue",
+      "source": "Bukhari 6477, Muslim 2988"
+    },
+    {
+      "id": 33,
+      "title": "Be Kind to Parents",
+      "category": "Family",
+      "hadith": "The Prophet (ﷺ) said: 'Your mother, then your mother, then your mother, then your father.'",
+      "benefit": "Earns paradise through honoring parents",
+      "source": "Bukhari 5971, Muslim 2548"
+    },
+    {
+      "id": 34,
+      "title": "Maintain Ties of Kinship",
+      "category": "Family",
+      "hadith": "The Prophet (ﷺ) said: 'Whoever wishes for his provision to be increased and his life to be extended, let him uphold the ties of kinship.'",
+      "benefit": "Brings barakah in wealth and life",
+    "source": "Bukhari 5986, Muslim 2557"
+    },
+    {
+      "id": 35,
+      "title": "Control Anger",
+      "category": "Manners",
+      "hadith": "A man said to the Prophet (ﷺ): 'Advise me.' He said: 'Do not become angry.' He repeated the same advice several times.",
+      "benefit": "Prevents harm and leads to calmness",
+      "source": "Bukhari 6116"
+    },
+    {
+      "id": 36,
+      "title": "Be Just Even When Angry",
+      "category": "Justice",
+      "hadith": "The Prophet (ﷺ) said: 'Fear Allah and be just between your children.'",
+      "benefit": "Promotes fairness and avoids favoritism",
+      "source": "Bukhari 2587, Muslim 1623"
+    },
+    {
+      "id": 37,
+      "title": "Love for Your Brother",
+      "category": "Social",
+      "hadith": "The Prophet (ﷺ) said: 'None of you truly believes until he loves for his brother what he loves for himself.'",
+      "benefit": "Strengthens Iman and community",
+      "source": "Bukhari 13, Muslim 45"
+    },
+    {
+      "id": 38,
+      "title": "Avoid Jealousy",
+      "category": "Manners",
+      "hadith": "The Prophet (ﷺ) said: 'Beware of envy, for it devours good deeds just as fire devours wood.'",
+      "benefit": "Protects your deeds and heart",
+      "source": "Abu Dawud 4903"
+    },
+    {
+      "id": 39,
+      "title": "Feed the Poor",
+      "category": "Charity",
+      "hadith": "The Prophet (ﷺ) said: 'O people, spread the salam, feed the hungry, and pray at night while others sleep, and you will enter Paradise in peace.'",
+      "benefit": "Guaranteed path to Paradise",
+      "source": "Tirmidhi 2485"
+    },
+    {
+      "id": 40,
+      "title": "Give Water in Charity",
+      "category": "Charity",
+      "hadith": "The Prophet (ﷺ) said: 'The best form of charity is giving someone water to drink.'",
+      "benefit": "A simple act with great reward",
+      "source": "Ahmad 23408"
+    },
+    {
+      "id": 41,
+      "title": "Pray Tahajjud",
+      "category": "Prayer",
+      "hadith": "The Prophet (ﷺ) said: 'The best prayer after the obligatory ones is the night prayer.'",
+      "benefit": "Brings nearness to Allah",
+      "source": "Muslim 1163"
+    },
+    {
+      "id": 42,
+      "title": "Fast Voluntarily",
+      "category": "Fasting",
+      "hadith": "The Prophet (ﷺ) said: 'Fasting is a shield.'",
+      "benefit": "Protects from sin and Hellfire",
+      "source": "Bukhari 1894, Muslim 1151"
+    },
+    {
+      "id": 43,
+      "title": "Control Your Eyes",
+      "category": "Modesty",
+      "hadith": "The Prophet (ﷺ) said: 'The glance is one of the poisoned arrows of Shaytan.'",
+      "benefit": "Preserves modesty and Iman",
+      "source": "Hakim 4/349"
+    },
+    {
+      "id": 44,
+      "title": "Avoid Pride",
+      "category": "Manners",
+      "hadith": "The Prophet (ﷺ) said: 'No one who has an atom's weight of pride in his heart will enter Paradise.'",
+      "benefit": "Leads to humility and acceptance",
+      "source": "Muslim 91"
+    },
+    {
+      "id": 45,
+      "title": "Say Salam to Children",
+      "category": "Social",
+      "hadith": "Anas said: 'The Prophet (ﷺ) used to pass by children and greet them with Salam.'",
+      "benefit": "Builds love and humility",
+      "source": "Bukhari 6247, Muslim 2168"
+    },
+    {
+      "id": 46,
+      "title": "Avoid Breaking Promises",
+      "category": "Manners",
+      "hadith": "The Prophet (ﷺ) said: 'Three are the signs of a hypocrite: when he speaks, he lies; when he makes a promise, he breaks it; and when he is entrusted, he betrays the trust.'",
+      "benefit": "Protects from hypocrisy",
+      "source": "Bukhari 33, Muslim 59"
+    },
+    {
+      "id": 47,
+      "title": "Practice Patience",
+      "category": "Manners",
+      "hadith": "The Prophet (ﷺ) said: 'Patience is at the first strike of calamity.'",
+      "benefit": "Earns Allah's reward and help",
+      "source": "Bukhari 1283, Muslim 926"
+    },
+    {
+      "id": 48,
+      "title": "Seek Knowledge",
+      "category": "Learning",
+      "hadith": "The Prophet (ﷺ) said: 'Whoever travels a path in search of knowledge, Allah will make easy for him a path to Paradise.'",
+      "benefit": "Increases wisdom and nearness to Allah",
+      "source": "Muslim 2699"
+    },
+    {
+      "id": 49,
+      "title": "Attend the Masjid Regularly",
+      "category": "Prayer",
+      "hadith": "The Prophet (ﷺ) said: 'Whoever goes to the masjid morning and evening, Allah prepares for him a place in Paradise every time he goes.'",
+      "benefit": "Daily reward and closeness to Allah",
+      "source": "Bukhari 662, Muslim 669"
+    },
+    {
+      "id": 50,
+      "title": "Recite Surah Al-Mulk Every Night",
+      "category": "Quran",
+      "hadith": "The Prophet (ﷺ) said: 'There is a surah which contains thirty ayat which will intercede for its companion until he is forgiven: Surah Al-Mulk.'",
+      "benefit": "Intercession and forgiveness",
+      "source": "Tirmidhi 2891"
+    },
+    {
+        "id": 51,
+        "title": "Pray Two Rakah After Wudu",
+        "category": "Prayer",
+        "hadith": "The Prophet (ﷺ) said: 'Whoever performs ablution like mine and then prays two rak'ahs without letting his thoughts wander will have his past sins forgiven.'",
+        "benefit": "A simple act to erase sins",
+        "source": "Bukhari 159, Muslim 226"
+      },
+      {
+        "id": 52,
+        "title": "Prolong Sujood in Prayer",
+        "category": "Prayer",
+        "hadith": "The Prophet (ﷺ) said: 'The closest that a servant comes to his Lord is when he is prostrating, so make plenty of supplication then.'",
+        "benefit": "Increases nearness to Allah",
+        "source": "Muslim 482"
+      },
+      {
+        "id": 53,
+        "title": "Do Not Delay the Prayer",
+        "category": "Prayer",
+        "hadith": "The Prophet (ﷺ) said: 'The most burdensome prayers for the hypocrites are the Isha and Fajr prayers. If they knew the reward for them, they would come to them even if they had to crawl.'",
+        "benefit": "Avoids hypocrisy and earns great reward",
+        "source": "Bukhari 657, Muslim 651"
+      },
+      {
+        "id": 54,
+        "title": "Give Sadaqah Regularly",
+        "category": "Charity",
+        "hadith": "The Prophet (ﷺ) said: 'Sadaqah extinguishes sin as water extinguishes fire.'",
+        "benefit": "Purifies wealth and removes sin",
+        "source": "Tirmidhi 614"
+      },
+      {
+        "id": 55,
+        "title": "Remember Allah Often",
+        "category": "Dhikr",
+        "hadith": "The Prophet (ﷺ) said: 'Keep your tongue moist with the remembrance of Allah.'",
+        "benefit": "Brings peace and rewards",
+        "source": "Tirmidhi 3375"
+      },
+      {
+        "id": 56,
+        "title": "Say Subhanallah 100 Times",
+        "category": "Dhikr",
+        "hadith": "The Prophet (ﷺ) said: 'Whoever says Subhanallah 100 times, a thousand good deeds are recorded for him, or a thousand sins are erased.'",
+        "benefit": "Easy way to gain massive rewards",
+        "source": "Muslim 2698"
+      },
+      {
+        "id": 57,
+        "title": "Say La Hawla wa la Quwwata",
+        "category": "Dhikr",
+        "hadith": "The Prophet (ﷺ) said: 'La hawla wa la quwwata illa billah is a treasure from the treasures of Paradise.'",
+        "benefit": "Earns treasures in Jannah",
+        "source": "Bukhari 6384, Muslim 2704"
+      },
+      {
+        "id": 58,
+        "title": "Ask Allah for Paradise",
+        "category": "Dua",
+        "hadith": "The Prophet (ﷺ) said: 'When you ask Allah, ask Him for Al-Firdaus, for it is the highest part of Paradise.'",
+        "benefit": "Aiming high in du'a earns the best reward",
+        "source": "Bukhari 2790"
+      },
+      {
+        "id": 59,
+        "title": "Avoid Suspicion",
+        "category": "Manners",
+        "hadith": "The Prophet (ﷺ) said: 'Beware of suspicion, for suspicion is the worst of false tales.'",
+        "benefit": "Maintains trust and community",
+        "source": "Bukhari 6066, Muslim 2563"
+      },
+      {
+        "id": 60,
+        "title": "Make the First Salam",
+        "category": "Social",
+        "hadith": "The Prophet (ﷺ) said: 'The best of the two is the one who initiates the greeting.'",
+        "benefit": "Spreads peace and earns virtue",
+        "source": "Bukhari 6234"
+      },
+      {
+        "id": 61,
+        "title": "Help the Needy",
+        "category": "Charity",
+        "hadith": "The Prophet (ﷺ) said: 'He is not a believer whose stomach is filled while his neighbor goes hungry.'",
+        "benefit": "Shows real faith through compassion",
+        "source": "Bayhaqi, Shu'ab al-Iman 7451"
+      },
+      {
+        "id": 62,
+        "title": "Look After Orphans",
+        "category": "Charity",
+        "hadith": "The Prophet (ﷺ) said: 'I and the one who looks after an orphan will be like this in Paradise,' and he held his two fingers together.",
+        "benefit": "Guarantees closeness to the Prophet in Jannah",
+        "source": "Bukhari 5304"
+      },
+      {
+        "id": 63,
+        "title": "Control Your Hands and Tongue",
+        "category": "Manners",
+        "hadith": "The Prophet (ﷺ) said: 'A Muslim is the one from whose tongue and hand other Muslims are safe.'",
+        "benefit": "Protects society and reflects real faith",
+        "source": "Bukhari 10, Muslim 40"
+      },
+      {
+        "id": 64,
+        "title": "Be Gentle in All Matters",
+        "category": "Manners",
+        "hadith": "The Prophet (ﷺ) said: 'Gentleness is not in anything except that it beautifies it, and it is not removed from anything except that it makes it ugly.'",
+        "benefit": "Gentleness brings beauty to character",
+        "source": "Muslim 2594"
+      },
+      {
+        "id": 65,
+        "title": "Show Mercy to Others",
+        "category": "Manners",
+        "hadith": "The Prophet (ﷺ) said: 'He who does not show mercy will not be shown mercy.'",
+        "benefit": "Earns Allah’s mercy by showing it to others",
+        "source": "Bukhari 6013, Muslim 2319"
+      },
+      {
+        "id": 66,
+        "title": "Respond to the Salam",
+        "category": "Social",
+        "hadith": "The Prophet (ﷺ) said: 'When a greeting is offered to you, reply with a better one, or at least return it equally.'",
+        "benefit": "Fulfills a right of your Muslim brother",
+        "source": "Quran 4:86"
+      },
+      {
+        "id": 67,
+        "title": "Speak Truth Even if Against Yourself",
+        "category": "Justice",
+        "hadith": "The Prophet (ﷺ) said: 'Say what is true, even if it is bitter.'",
+        "benefit": "Upholds justice and integrity",
+        "source": "Ibn Hibban 361"
+      },
+      {
+        "id": 68,
+        "title": "Do Not Mock Others",
+        "category": "Manners",
+        "hadith": "The Prophet (ﷺ) said: 'It is enough evil for a man to despise his Muslim brother.'",
+        "benefit": "Preserves dignity and prevents arrogance",
+        "source": "Muslim 2564"
+      },
+      {
+        "id": 69,
+        "title": "Forgive Others Often",
+        "category": "Manners",
+        "hadith": "The Prophet (ﷺ) said: 'Be merciful to others and you will receive mercy. Forgive, and Allah will forgive you.'",
+        "benefit": "Earns forgiveness and peace",
+        "source": "Musnad Ahmad 7001"
+      },
+      {
+        "id": 70,
+        "title": "Love for the Sake of Allah",
+        "category": "Brotherhood",
+        "hadith": "The Prophet (ﷺ) said: 'Whoever loves for the sake of Allah, hates for the sake of Allah... has perfected his faith.'",
+        "benefit": "Builds pure, lasting relationships",
+        "source": "Abu Dawud 4681"
+      },
+      {
+        "id": 71,
+        "title": "Shake Hands When Meeting",
+        "category": "Social",
+        "hadith": "The Prophet (ﷺ) said: 'When two Muslims meet and shake hands, their sins are forgiven before they part.'",
+        "benefit": "Strengthens bonds and erases sins",
+        "source": "Abu Dawud 5212"
+      },
+      {
+        "id": 72,
+        "title": "Honor the Guest",
+        "category": "Social",
+        "hadith": "The Prophet (ﷺ) said: 'Whoever believes in Allah and the Last Day should honor his guest.'",
+        "benefit": "Part of complete faith and etiquette",
+        "source": "Bukhari 6138, Muslim 47"
+      },
+      {
+        "id": 73,
+        "title": "Respect the Elderly",
+        "category": "Manners",
+        "hadith": "The Prophet (ﷺ) said: 'He is not one of us who does not show mercy to our young and honor to our elderly.'",
+        "benefit": "Promotes community harmony",
+        "source": "Tirmidhi 1921"
+      },
+      {
+        "id": 74,
+        "title": "Treat Your Spouse Kindly",
+        "category": "Family",
+        "hadith": "The Prophet (ﷺ) said: 'The best of you are those who are best to their wives.'",
+        "benefit": "Reflects good character in private life",
+        "source": "Tirmidhi 3895"
+      },
+      {
+        "id": 75,
+        "title": "Seek Knowledge from Cradle to Grave",
+        "category": "Learning",
+        "hadith": "The Prophet (ﷺ) said: 'Seeking knowledge is an obligation upon every Muslim.'",
+        "benefit": "Increases wisdom and nearness to Allah",
+        "source": "Ibn Majah 224"
+      },
+      {
+        "id": 76,
+        "title": "Use the Right Hand When Eating",
+        "category": "Eating",
+        "hadith": "The Prophet (ﷺ) said: 'Eat with your right hand, and eat from what is in front of you.'",
+        "benefit": "Manners and protection from Shaytan",
+        "source": "Bukhari 5376, Muslim 2022"
+      },
+      {
+        "id": 77,
+        "title": "Eat Together",
+        "category": "Eating",
+        "hadith": "The Prophet (ﷺ) said: 'Eat together and do not eat separately, for the blessing is in being together.'",
+        "benefit": "Brings barakah and unity",
+        "source": "Ibn Majah 3287"
+      },
+      {
+        "id": 78,
+        "title": "Clean Your Plate",
+        "category": "Eating",
+        "hadith": "The Prophet (ﷺ) said: 'Lick your fingers and clean the dish, for you do not know in which part of the food the blessing lies.'",
+        "benefit": "Respect for food and blessings",
+        "source": "Muslim 2033"
+      },
+      {
+        "id": 79,
+        "title": "Cover Utensils at Night",
+        "category": "Hygiene",
+        "hadith": "The Prophet (ﷺ) said: 'Cover the vessels and tie the water skins, for there is one night in the year when a disease descends and afflicts anything not covered.'",
+        "benefit": "Prevents harm and follows Sunnah",
+        "source": "Muslim 2014"
+      },
+      {
+        "id": 80,
+        "title": "Sleep with Wudu",
+        "category": "Sleeping",
+        "hadith": "The Prophet (ﷺ) said: 'Purify these bodies and Allah will purify you, for any servant who sleeps in a state of purity has an angel that stays with him.'",
+        "benefit": "Constant protection from angels",
+        "source": "Tabarani, Hasan"
+      },
+      {
+        "id": 81,
+        "title": "Wake Up with Praise",
+        "category": "Sleeping",
+        "hadith": "The Prophet (ﷺ) said: 'When any one of you wakes up, let him say: Alhamdulillah alladhi ahyana...'",
+        "benefit": "Begins the day with gratitude",
+        "source": "Bukhari 6312"
+      },
+      {
+        "id": 82,
+        "title": "Recite Surah Ikhlas Often",
+        "category": "Quran",
+        "hadith": "The Prophet (ﷺ) said: 'By Him in Whose Hand is my soul, it is equivalent to one third of the Quran.'",
+        "benefit": "Immense reward for short surah",
+        "source": "Bukhari 6643"
+      },
+      {
+        "id": 83,
+        "title": "Attend Friday Prayer",
+        "category": "Prayer",
+        "hadith": "The Prophet (ﷺ) said: 'Whoever bathes on Friday, comes early, listens, and does not engage in idle talk, will have his sins forgiven between the two Fridays.'",
+        "benefit": "Weekly purification of sins",
+        "source": "Bukhari 883, Muslim 857"
+      },
+      {
+        "id": 84,
+        "title": "Shorten the Khutbah",
+        "category": "Prayer",
+        "hadith": "The Prophet (ﷺ) said: 'Lengthening the prayer and shortening the khutbah is a sign of a man’s understanding.'",
+        "benefit": "Respects time and shows wisdom",
+        "source": "Muslim 869"
+      },
+        {
+          "id": 85,
+          "title": "Send Salawat on the Prophet ﷺ",
+          "category": "Dhikr",
+          "hadith": "The Prophet (ﷺ) said: 'Whoever sends blessings upon me once, Allah will send blessings upon him tenfold.'",
+          "benefit": "Earns Allah’s mercy and reward",
+          "source": "Muslim 408"
+        },
+        {
+          "id": 86,
+          "title": "Make Du'a Between Adhan and Iqamah",
+          "category": "Dua",
+          "hadith": "The Prophet (ﷺ) said: 'The supplication between the Adhan and the Iqamah is not rejected.'",
+          "benefit": "A powerful time for du'a",
+          "source": "Abu Dawud 521"
+        },
+        {
+          "id": 87,
+          "title": "Avoid Arrogance",
+          "category": "Manners",
+          "hadith": "The Prophet (ﷺ) said: 'Whoever has pride in his heart equal to the weight of a mustard seed shall not enter Paradise.'",
+          "benefit": "Keeps the heart humble and pure",
+          "source": "Muslim 91"
+        },
+        {
+          "id": 88,
+          "title": "Do Not Cut Off Relatives",
+          "category": "Family",
+          "hadith": "The Prophet (ﷺ) said: 'No one who severs ties of kinship will enter Paradise.'",
+          "benefit": "Maintains family and earns Jannah",
+          "source": "Muslim 2556"
+        },
+        {
+          "id": 89,
+          "title": "Avoid Cursing Others",
+          "category": "Manners",
+          "hadith": "The Prophet (ﷺ) said: 'A true believer is not involved in taunting or frequently cursing.'",
+          "benefit": "Promotes kindness in speech",
+          "source": "Tirmidhi 1977"
+        },
+        {
+          "id": 90,
+          "title": "Pray Istikhara for Decisions",
+          "category": "Prayer",
+          "hadith": "The Prophet (ﷺ) taught us to perform Istikhara in all matters, as he would teach a Surah from the Quran.",
+          "benefit": "Seeks guidance from Allah in life decisions",
+          "source": "Bukhari 1166"
+        },
+        {
+          "id": 91,
+          "title": "Avoid Begging",
+          "category": "Character",
+          "hadith": "The Prophet (ﷺ) said: 'The upper hand is better than the lower hand. The upper hand is the one that gives, and the lower hand is the one that asks.'",
+          "benefit": "Encourages self-reliance and dignity",
+          "source": "Bukhari 1429, Muslim 1033"
+        },
+        {
+          "id": 92,
+          "title": "Beware of the Tongue",
+          "category": "Manners",
+          "hadith": "The Prophet (ﷺ) said: 'A man utters a word thoughtlessly, and it drags him into the Hellfire deeper than the distance between east and west.'",
+          "benefit": "Caution in speech can save from Hell",
+          "source": "Bukhari 6477"
+        },
+        {
+          "id": 93,
+          "title": "Practice Gratitude",
+          "category": "Character",
+          "hadith": "The Prophet (ﷺ) said: 'He who does not thank people, does not thank Allah.'",
+          "benefit": "Builds humility and gratitude",
+          "source": "Abu Dawud 4811"
+        },
+        {
+          "id": 94,
+          "title": "Return Trusts",
+          "category": "Justice",
+          "hadith": "The Prophet (ﷺ) said: 'Render back the trust to the one who entrusted you, and do not betray even the one who betrays you.'",
+          "benefit": "Fulfills amanah and earns Allah’s trust",
+          "source": "Abu Dawud 3535"
+        },
+        {
+          "id": 95,
+          "title": "Say the Morning and Evening Adhkar",
+          "category": "Dhikr",
+          "hadith": "The Prophet (ﷺ) used to say morning and evening: 'O Allah, I ask You for well-being in this world and the Hereafter...'",
+          "benefit": "Protection throughout the day and night",
+          "source": "Abu Dawud 5074"
+        },
+        {
+          "id": 96,
+          "title": "Be Honest in Trade",
+          "category": "Business",
+          "hadith": "The Prophet (ﷺ) said: 'The honest and trustworthy merchant will be with the prophets, the truthful, and the martyrs on the Day of Judgment.'",
+          "benefit": "Trade becomes a path to Jannah",
+          "source": "Tirmidhi 1209"
+        },
+        {
+          "id": 97,
+          "title": "Fast Mondays and Thursdays",
+          "category": "Fasting",
+          "hadith": "The Prophet (ﷺ) said: 'Deeds are presented on Mondays and Thursdays, and I love that my deeds be presented while I am fasting.'",
+          "benefit": "Gains reward and builds discipline",
+          "source": "Tirmidhi 747"
+        },
+        {
+          "id": 98,
+          "title": "Visit Graves for Reminder",
+          "category": "Reflection",
+          "hadith": "The Prophet (ﷺ) said: 'Visit the graves, for they remind you of death.'",
+          "benefit": "Softens the heart and prepares for the Hereafter",
+          "source": "Muslim 976"
+        },
+        {
+          "id": 99,
+          "title": "Perform Hajj If Able",
+          "category": "Hajj",
+          "hadith": "The Prophet (ﷺ) said: 'Whoever performs Hajj and does not commit obscenity or sin, will return as pure as the day he was born.'",
+          "benefit": "Major cleansing of sins and spiritual rebirth",
+          "source": "Bukhari 1521, Muslim 1350"
+        },
+        {
+          "id": 100,
+          "title": "Pray Witr Before Sleeping",
+          "category": "Prayer",
+          "hadith": "The Prophet (ﷺ) said: 'Make Witr your last prayer at night.'",
+          "benefit": "Completes the night prayer and earns reward",
+          "source": "Bukhari 998, Muslim 751"
+        },
+        {
+          "id": 101,
+          "title": "Avoid Extravagance",
+          "category": "Character",
+          "hadith": "The Prophet (ﷺ) said: 'Eat, give charity, and dress in a moderate way without arrogance or extravagance.'",
+          "benefit": "Maintains balance and humility",
+          "source": "Nasai 2559"
+        },
+        {
+          "id": 102,
+          "title": "Supplicate for Others in Their Absence",
+          "category": "Dua",
+          "hadith": "The Prophet (ﷺ) said: 'The du’a of a Muslim for his brother in his absence is accepted. At his head is an angel appointed, and whenever he makes a good du’a for his brother, the angel says: Ameen, and for you the same.'",
+          "benefit": "Earns blessings for yourself and others",
+          "source": "Muslim 2732"
+        },
+        {
+          "id": 103,
+          "title": "Be Fair Between Children",
+          "category": "Family",
+          "hadith": "The Prophet (ﷺ) said: 'Fear Allah and be just among your children.'",
+          "benefit": "Promotes fairness and prevents jealousy",
+          "source": "Bukhari 2587"
+        },
+        {
+          "id": 104,
+          "title": "Support Widows and the Poor",
+          "category": "Charity",
+          "hadith": "The Prophet (ﷺ) said: 'The one who looks after a widow or a poor person is like the one striving in the way of Allah or fasting all day and praying all night.'",
+          "benefit": "Earns immense rewards daily",
+          "source": "Bukhari 6006, Muslim 2982"
+        },
+        {
+          "id": 105,
+          "title": "Avoid Being Harsh",
+          "category": "Manners",
+          "hadith": "The Prophet (ﷺ) said: 'Allah is gentle and loves gentleness.'",
+          "benefit": "Gains Allah’s love and eases affairs",
+          "source": "Bukhari 6927, Muslim 2593"
+        },
+        {
+          "id": 106,
+          "title": "Do Not Harm Neighbors",
+          "category": "Social",
+          "hadith": "The Prophet (ﷺ) said: 'He is not a believer whose neighbor is not safe from his harm.'",
+          "benefit": "Protects society and reflects real faith",
+          "source": "Bukhari 6016, Muslim 46"
+        },
+        {
+          "id": 107,
+          "title": "Give Gifts",
+          "category": "Social",
+          "hadith": "The Prophet (ﷺ) said: 'Exchange gifts, you will love one another.'",
+          "benefit": "Increases love and brotherhood",
+          "source": "Bukhari in Al-Adab Al-Mufrad 594"
+        },
+        {
+          "id": 108,
+          "title": "Use the Siwak",
+          "category": "Hygiene",
+          "hadith": "The Prophet (ﷺ) said: 'Were it not for the hardship on my Ummah, I would have ordered them to use the siwak at every prayer.'",
+          "benefit": "Promotes cleanliness and reward",
+          "source": "Bukhari 887"
+        },
+        {
+          "id": 109,
+          "title": "Greet the Young and Old Alike",
+          "category": "Manners",
+          "hadith": "The Prophet (ﷺ) said: 'The young should greet the old, the passerby the one sitting, and the few the many.'",
+          "benefit": "Teaches respect and humility",
+          "source": "Bukhari 6231, Muslim 2160"
+        },
+        {
+          "id": 110,
+          "title": "Feed Fasting People",
+          "category": "Charity",
+          "hadith": "The Prophet (ﷺ) said: 'Whoever provides food for a fasting person to break his fast, he will have the same reward as him without reducing the fasting person's reward.'",
+          "benefit": "Earns multiplied reward during Ramadan",
+          "source": "Tirmidhi 807"
+        },
+        {
+          "id": 111,
+          "title": "Smile is Charity",
+          "category": "Social",
+          "hadith": "The Prophet (ﷺ) said: 'Your smile for your brother is charity.'",
+          "benefit": "Spreads joy and earns reward",
+          "source": "Tirmidhi 1956"
+        },
+        {
+          "id": 112,
+          "title": "Don’t Lie Even in Jokes",
+          "category": "Manners",
+          "hadith": "The Prophet (ﷺ) said: 'Woe to him who speaks and lies to make people laugh. Woe to him! Woe to him!'",
+          "benefit": "Upholds truthfulness always",
+          "source": "Abu Dawud 4990"
+        },
+        {
+          "id": 113,
+          "title": "Don’t Envy Others",
+          "category": "Manners",
+          "hadith": "The Prophet (ﷺ) said: 'Do not envy one another, do not inflate prices, do not hate one another... and be, O servants of Allah, brothers.'",
+          "benefit": "Promotes unity and love",
+          "source": "Muslim 2564"
+        },
+        {
+          "id": 114,
+          "title": "Keep Secrets",
+          "category": "Manners",
+          "hadith": "The Prophet (ﷺ) said: 'When a man speaks a word and then turns away, it becomes a trust.'",
+          "benefit": "Encourages confidentiality and trust",
+          "source": "Abu Dawud 4868"
+        },
+        {
+          "id": 115,
+          "title": "Respect Teachers",
+          "category": "Learning",
+          "hadith": "The Prophet (ﷺ) said: 'He is not one of us who does not respect our elders, show mercy to our young, and give our scholars their due right.'",
+          "benefit": "Strengthens knowledge and manners",
+          "source": "Ahmad 23408"
+        },
+        {
+          "id": 116,
+          "title": "Beware of Showing Off",
+          "category": "Character",
+          "hadith": "The Prophet (ﷺ) said: 'The thing I fear most for my nation is showing off in deeds.'",
+          "benefit": "Preserves sincerity and reward",
+          "source": "Ibn Majah 3989"
+        },
+        {
+          "id": 117,
+          "title": "Say Astaghfirullah Often",
+          "category": "Dhikr",
+          "hadith": "The Prophet (ﷺ) said: 'By Allah, I seek Allah's forgiveness and repent to Him more than seventy times a day.'",
+          "benefit": "Cleanses sins and brings barakah",
+          "source": "Bukhari 6307"
+        },
+  {
+    "id": 118,
+    "title": "Love the Quran",
+    "category": "Quran",
+    "hadith": "The Prophet (ﷺ) said: 'The best among you are those who learn the Qur'an and teach it.'",
+    "benefit": "Elevates your status and rewards you immensely",
+    "source": "Bukhari 5027"
+  },
+  {
+    "id": 119,
+    "title": "Recite Surah Al-Kahf on Friday",
+    "category": "Quran",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever recites Surah Al-Kahf on Friday, it will illuminate him with light from one Friday to the next.'",
+    "benefit": "Weekly spiritual light and guidance",
+    "source": "Hakim 2/399, Hasan"
+  },
+  {
+    "id": 120,
+    "title": "Don’t Belittle a Good Deed",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'Do not belittle any good deed, even meeting your brother with a cheerful face.'",
+    "benefit": "Every small deed counts",
+    "source": "Muslim 2626"
+  },
+  {
+    "id": 121,
+    "title": "Guard the Five Daily Prayers",
+    "category": "Prayer",
+    "hadith": "The Prophet (ﷺ) said: 'The first matter that the slave will be brought to account for on the Day of Judgment is the prayer. If it is sound, the rest of his deeds will be sound.'",
+    "benefit": "Prayer is the foundation of judgment",
+    "source": "Tirmidhi 413"
+  },
+  {
+    "id": 122,
+    "title": "Be a Good Neighbor",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Jibril kept recommending treating neighbors with kindness until I thought he would assign a share of inheritance to them.'",
+    "benefit": "Islam elevates the status of neighbors",
+    "source": "Bukhari 6014, Muslim 2624"
+  },
+  {
+    "id": 123,
+    "title": "Don’t Raise Voices in the Masjid",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'The masjid is not for raising voices or for buying and selling.'",
+    "benefit": "Maintains respect for sacred space",
+    "source": "Ibn Majah 750"
+  },
+  {
+    "id": 124,
+    "title": "Respect the Quran",
+    "category": "Quran",
+    "hadith": "The Prophet (ﷺ) said: 'Indeed, the one who does not honor the Qur'an is not from among us.'",
+    "benefit": "Treating the Quran with reverence reflects Iman",
+    "source": "Ad-Daraqutni, Hasan"
+  },
+  {
+    "id": 125,
+    "title": "Pray in Shoes if Clean",
+    "category": "Prayer",
+    "hadith": "The Prophet (ﷺ) said: 'Be different from the Jews: pray in your sandals if they are clean.'",
+    "benefit": "Shows flexibility and Sunnah in prayer",
+    "source": "Abu Dawud 652"
+  },
+  {
+    "id": 126,
+    "title": "Don’t Sleep Late Without Purpose",
+    "category": "Sleeping",
+    "hadith": "The Prophet (ﷺ) disliked sleeping before Isha and talking after it.",
+    "benefit": "Preserves health and early Fajr",
+    "source": "Bukhari 568, Muslim 647"
+  },
+  {
+    "id": 127,
+    "title": "Lower Your Gaze",
+    "category": "Modesty",
+    "hadith": "The Prophet (ﷺ) said: 'Do not follow a glance with another glance. The first is for you, but not the second.'",
+    "benefit": "Protects the heart from fitnah",
+    "source": "Tirmidhi 2777"
+  },
+  {
+    "id": 128,
+    "title": "Make Du'a at the Last Third of Night",
+    "category": "Dua",
+    "hadith": "The Prophet (ﷺ) said: 'Our Lord descends every night to the lowest heaven when the last third of the night remains and says: Is there anyone to call upon Me?'",
+    "benefit": "One of the best times to make du'a",
+    "source": "Bukhari 1145, Muslim 758"
+  },
+  {
+    "id": 129,
+    "title": "Fast on the Day of Arafah",
+    "category": "Fasting",
+    "hadith": "The Prophet (ﷺ) said: 'Fasting on the day of Arafah expiates the sins of the previous year and the coming year.'",
+    "benefit": "A two-year reward for one day’s fast",
+    "source": "Muslim 1162"
+  },
+  {
+    "id": 130,
+    "title": "Say La ilaha illallah Often",
+    "category": "Dhikr",
+    "hadith": "The Prophet (ﷺ) said: 'The best of what I and the Prophets before me have said is: La ilaha illallah.'",
+    "benefit": "Most powerful form of remembrance",
+    "source": "Tirmidhi 3585"
+  },
+  {
+    "id": 131,
+    "title": "Give Zakat",
+    "category": "Charity",
+    "hadith": "The Prophet (ﷺ) said: 'Protect your wealth by giving zakat, treat your sick by giving charity, and prepare for calamities with du'a.'",
+    "benefit": "Purifies wealth and brings protection",
+    "source": "Bayhaqi, Shu'ab al-Iman"
+  },
+  {
+    "id": 132,
+    "title": "Pray in Early Time",
+    "category": "Prayer",
+    "hadith": "The Prophet (ﷺ) said: 'The best of deeds is prayer at its appointed time.'",
+    "benefit": "Prioritizing salah increases barakah",
+    "source": "Muslim 85"
+  },
+  {
+    "id": 133,
+    "title": "Feed Animals with Kindness",
+    "category": "Compassion",
+    "hadith": "The Prophet (ﷺ) said: 'A woman was forgiven because she gave water to a thirsty dog.'",
+    "benefit": "Compassion for all creatures earns forgiveness",
+    "source": "Bukhari 3143, Muslim 2245"
+  },
+  {
+    "id": 134,
+    "title": "Do Not Curse Time",
+    "category": "Tawheed",
+    "hadith": "The Prophet (ﷺ) said: 'Do not curse time, for indeed Allah is time.'",
+    "benefit": "Acknowledges Allah’s control over time",
+    "source": "Bukhari 4826, Muslim 2246"
+  },
+  {
+    "id": 135,
+    "title": "Make Du'a When it Rains",
+    "category": "Dua",
+    "hadith": "The Prophet (ﷺ) said: 'Two are the du'as that are never rejected: the du'a made at the time of the adhan and the du'a made when it rains.'",
+    "benefit": "A special moment for answered prayers",
+    "source": "Abu Dawud 2540"
+  },
+  {
+    "id": 136,
+    "title": "Avoid Vanity in Clothing",
+    "category": "Modesty",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever drags his garment out of pride, Allah will not look at him on the Day of Judgment.'",
+    "benefit": "Promotes humility and modesty",
+    "source": "Bukhari 5784, Muslim 2085"
+  },
+  {
+    "id": 137,
+    "title": "Keep Promises",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'The signs of a hypocrite are three: when he speaks, he lies; when he promises, he breaks it; and when entrusted, he betrays.'",
+    "benefit": "Keeps us away from nifaq (hypocrisy)",
+    "source": "Bukhari 33, Muslim 59"
+  },
+  {
+    "id": 138,
+    "title": "Clean the Masjid",
+    "category": "Charity",
+    "hadith": "The Prophet (ﷺ) praised a woman who used to clean the mosque. When she passed away, he prayed over her at her grave.",
+    "benefit": "Service to the masjid is beloved to Allah",
+    "source": "Bukhari 458, Muslim 956"
+  },
+  {
+    "id": 139,
+    "title": "Avoid Extremism",
+    "category": "Balance",
+    "hadith": "The Prophet (ﷺ) said: 'Beware of extremism in religion, for those before you were destroyed by it.'",
+    "benefit": "Islam is a religion of balance and moderation",
+    "source": "Nasai 3057"
+  },
+  {
+    "id": 140,
+    "title": "Do Not Enter Homes Without Permission",
+    "category": "Etiquette",
+    "hadith": "The Prophet (ﷺ) said: 'If someone peeks into your house without permission, you may put out his eye, and there is no sin upon you.'",
+    "benefit": "Protects privacy and boundaries",
+    "source": "Bukhari 6902, Muslim 2154"
+  },
+  {
+    "id": 141,
+    "title": "Don’t Interfere in Others’ Sales",
+    "category": "Business",
+    "hadith": "The Prophet (ﷺ) said: 'Do not undercut one another’s sales, but be brothers, O servants of Allah.'",
+    "benefit": "Encourages ethical business",
+    "source": "Muslim 2564"
+  },
+  {
+    "id": 142,
+    "title": "Don’t Walk with Pride",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever walks arrogantly on the earth, Allah will humble him on the Day of Judgment.'",
+    "benefit": "Leads to humility and spiritual elevation",
+    "source": "Abu Dawud 4089"
+  },
+  {
+    "id": 143,
+    "title": "Make Up Missed Fasts",
+    "category": "Fasting",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever breaks a fast in Ramadan without an excuse must make it up.'",
+    "benefit": "Preserves the sanctity of fasting",
+    "source": "Bukhari 1936"
+  },
+  {
+    "id": 144,
+    "title": "Keep Secrets of the Spouse",
+    "category": "Family",
+    "hadith": "The Prophet (ﷺ) said: 'The worst of people in the sight of Allah on the Day of Judgment is a man who goes to his wife, and she to him, then he spreads her secrets.'",
+    "benefit": "Protects trust and privacy",
+    "source": "Muslim 1437"
+  },
+  {
+    "id": 145,
+    "title": "Do Not Waste Water",
+    "category": "Hygiene",
+    "hadith": "The Prophet (ﷺ) said: 'Do not waste water even if you perform ablution on the bank of a flowing river.'",
+    "benefit": "Encourages sustainability and gratitude",
+    "source": "Ibn Majah 425"
+  },
+  {
+    "id": 146,
+    "title": "Seek Refuge from Hell",
+    "category": "Akhirah",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever seeks refuge from Hellfire three times, Hellfire says: O Allah, protect him from the Fire.'",
+    "benefit": "A simple du'a can protect from Hell",
+    "source": "Tirmidhi 2572"
+  },
+  {
+    "id": 147,
+    "title": "Keep Trusts Safe",
+    "category": "Justice",
+    "hadith": "The Prophet (ﷺ) said: 'When a man is made a ruler over the people and he dies while dishonest in his dealings, Paradise is forbidden for him.'",
+    "benefit": "Accountability in leadership and trust",
+    "source": "Bukhari 6731"
+  },
+  {
+    "id": 148,
+    "title": "Say Salam Before Entering",
+    "category": "Etiquette",
+    "hadith": "The Prophet (ﷺ) said: 'It is not lawful for a Muslim to enter a house until he says salam.'",
+    "benefit": "Promotes good manners and safety",
+    "source": "Abu Dawud 5166"
+  },
+  {
+    "id": 149,
+    "title": "Return Salam Louder",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'If someone greets you in a way you cannot hear, return it in a louder voice.'",
+    "benefit": "Ensures others feel acknowledged",
+    "source": "Bayhaqi"
+  },
+  {
+    "id": 150,
+    "title": "Use Your Time Wisely",
+    "category": "Reflection",
+    "hadith": "The Prophet (ﷺ) said: 'There are two blessings which many people waste: health and free time.'",
+    "benefit": "Motivates productivity and gratitude",
+    "source": "Bukhari 6412"
+  },
+  {
+    "id": 151,
+    "title": "Remember Death Often",
+    "category": "Reflection",
+    "hadith": "The Prophet (ﷺ) said: 'Remember often the destroyer of pleasures: death.'",
+    "benefit": "Encourages preparation for the afterlife and discourages excessive worldly attachment",
+    "source": "Tirmidhi 2307"
+  },
+  {
+    "id": 152,
+    "title": "Visit the Sick",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Visit the sick, feed the hungry, and free the captive.'",
+    "benefit": "Earns great rewards and shows compassion",
+    "source": "Bukhari 5373"
+  },
+  {
+    "id": 153,
+    "title": "Follow a Funeral Procession",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever attends the funeral of a Muslim out of sincere faith and hoping for Allah’s reward, and stays with it until it is prayed over and buried, will return with two Qirat of reward.'",
+    "benefit": "Earns immense reward and reminds of the Hereafter",
+    "source": "Bukhari 47"
+  },
+  {
+    "id": 154,
+    "title": "Give Glad Tidings",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Make things easy and do not make them difficult, and give glad tidings and do not repel people.'",
+    "benefit": "Spreads ease and positivity in interactions",
+    "source": "Bukhari 6125"
+  },
+  {
+    "id": 155,
+    "title": "Avoid Excessive Laughter",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'Do not laugh too much, for excessive laughter deadens the heart.'",
+    "benefit": "Keeps the heart soft and receptive to guidance",
+    "source": "Tirmidhi 2305"
+  },
+  {
+    "id": 156,
+    "title": "Be Truthful in Speech",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'Indeed, truthfulness leads to righteousness, and righteousness leads to Paradise.'",
+    "benefit": "Foundation of good character and path to Jannah",
+    "source": "Bukhari 6094, Muslim 2607"
+  },
+  {
+    "id": 157,
+    "title": "Be Modest in Dress",
+    "category": "Modesty",
+    "hadith": "The Prophet (ﷺ) said: 'Modesty is part of faith.'",
+    "benefit": "Reflects inner faith and dignity",
+    "source": "Bukhari 24, Muslim 36"
+  },
+  {
+    "id": 158,
+    "title": "Recite Dhikr After Prayer",
+    "category": "Dhikr",
+    "hadith": "The Prophet (ﷺ) used to say after every prayer: 'Subhanallah' 33 times, 'Alhamdulillah' 33 times, and 'Allahu Akbar' 33 times, completing 100 with 'La ilaha illallah wahdahu la shareeka lah, lahul mulku wa lahul hamdu wa huwa 'ala kulli shay'in qadeer.'",
+    "benefit": "Forgives sins and increases reward",
+    "source": "Muslim 597"
+  },
+  {
+    "id": 159,
+    "title": "Be Punctual",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'The most beloved deeds to Allah are those that are continuous, even if small.'",
+    "benefit": "Builds discipline and consistency in good deeds",
+    "source": "Bukhari 6464, Muslim 782"
+  },
+  {
+    "id": 160,
+    "title": "Cleanliness is Half of Faith",
+    "category": "Hygiene",
+    "hadith": "The Prophet (ﷺ) said: 'Purity is half of faith.'",
+    "benefit": "Emphasizes the importance of physical and spiritual cleanliness",
+    "source": "Muslim 223"
+  },
+  {
+    "id": 161,
+    "title": "Remove Harm from the Road",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Removing a harmful thing from the road is charity.'",
+    "benefit": "A simple act of kindness that earns reward",
+    "source": "Bukhari 247, Muslim 261"
+  },
+  {
+    "id": 162,
+    "title": "Be Trustworthy",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'There is no faith for one who has no trustworthiness.'",
+    "benefit": "Foundation of strong character and faith",
+    "source": "Ahmad 12567"
+  },
+  {
+    "id": 163,
+    "title": "Visit Graveyards",
+    "category": "Reflection",
+    "hadith": "The Prophet (ﷺ) said: 'Visit the graves, for they remind you of death.'",
+    "benefit": "Softens the heart and reminds of the Hereafter",
+    "source": "Muslim 976"
+  },
+  {
+    "id": 164,
+    "title": "Give Charity to Relatives First",
+    "category": "Charity",
+    "hadith": "The Prophet (ﷺ) said: 'Charity given to the poor is charity, but charity given to a relative is two-fold: charity and maintaining kinship.'",
+    "benefit": "Double reward for helping family",
+    "source": "Tirmidhi 658"
+  },
+  {
+    "id": 165,
+    "title": "Supplicate for Your Parents",
+    "category": "Dua",
+    "hadith": "The Prophet (ﷺ) said: 'When a man dies, all his deeds come to an end except for three: ongoing charity, beneficial knowledge, or a righteous child who prays for him.'",
+    "benefit": "Continuous reward for parents even after their death",
+    "source": "Muslim 1631"
+  },
+  {
+    "id": 166,
+    "title": "Guard Your Private Parts",
+    "category": "Modesty",
+    "hadith": "The Prophet (ﷺ) said: 'Guard your private parts except from your wives or those whom your right hands possess.'",
+    "benefit": "Preserves chastity and earns modesty",
+    "source": "Abu Dawud 4017"
+  },
+  {
+    "id": 167,
+    "title": "Eat in Moderation",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) said: 'The son of Adam does not fill any vessel worse than his stomach. A few morsels are sufficient for him to keep his back straight.'",
+    "benefit": "Promotes health and avoids gluttony",
+    "source": "Tirmidhi 2380"
+  },
+  {
+    "id": 168,
+    "title": "Sleep Early, Wake Early",
+    "category": "Sleeping",
+    "hadith": "The Prophet (ﷺ) disliked sleeping before the Isha prayer and talking after it.",
+    "benefit": "Good for health and facilitates waking up for Fajr",
+    "source": "Bukhari 568, Muslim 647"
+  },
+  {
+    "id": 169,
+    "title": "Listen to the Quran Attentively",
+    "category": "Quran",
+    "hadith": "Allah says in the Quran: 'So when the Qur'an is recited, listen to it and pay attention that you may receive mercy.'",
+    "benefit": "Increases understanding and earns mercy",
+    "source": "Quran 7:204"
+  },
+  {
+    "id": 170,
+    "title": "Fast Three Days Every Month",
+    "category": "Fasting",
+    "hadith": "The Prophet (ﷺ) said: 'Fasting three days of each month is like fasting the entire year.'",
+    "benefit": "Continuous reward and spiritual purification",
+    "source": "Bukhari 1979, Muslim 1159"
+  },
+  {
+    "id": 171,
+    "title": "Seek Forgiveness Constantly",
+    "category": "Dhikr",
+    "hadith": "The Prophet (ﷺ) said: 'Glad tidings for those who find a lot of seeking forgiveness in their record.'",
+    "benefit": "Cleanses sins and fills the record with good deeds",
+    "source": "Ibn Majah 3818"
+  },
+  {
+    "id": 172,
+    "title": "Remember Allah in Prosperity and Adversity",
+    "category": "Dhikr",
+    "hadith": "The Prophet (ﷺ) said: 'Remember Allah during times of ease and He will remember you during times of hardship.'",
+    "benefit": "Strengthens connection with Allah in all states",
+    "source": "Tirmidhi 2516"
+  },
+  {
+    "id": 173,
+    "title": "Keep the Masjid Clean",
+    "category": "Charity",
+    "hadith": "The Prophet (ﷺ) said: 'The deeds of my Ummah were presented before me, both the good and the bad. I saw among the good deeds the removal of a harmful thing from the road. And I saw among the bad deeds mucus in the mosque not being buried.'",
+    "benefit": "Earns rewards and maintains sacredness of mosques",
+    "source": "Muslim 553"
+  },
+  {
+    "id": 174,
+    "title": "Be Kind to Animals",
+    "category": "Compassion",
+    "hadith": "The Prophet (ﷺ) said: 'There is a reward for kindness to every living thing.'",
+    "benefit": "Compassion earns Allah's reward and mercy",
+    "source": "Bukhari 2363, Muslim 2244"
+  },
+  {
+    "id": 175,
+    "title": "Avoid Unnecessary Talk",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'Indeed, among the things that I fear for you most is every eloquent hypocrite.'",
+    "benefit": "Preserves sincerity and avoids hypocrisy",
+    "source": "Ahmad 14321"
+  },
+  {
+    "id": 176,
+    "title": "Seek Knowledge in the Morning",
+    "category": "Learning",
+    "hadith": "The Prophet (ﷺ) said: 'O Allah, bless my Ummah in their early mornings.'",
+    "benefit": "Brings blessings to early efforts, including seeking knowledge",
+    "source": "Abu Dawud 2606, Tirmidhi 1212"
+  },
+  {
+    "id": 177,
+    "title": "Pray Nawafil at Home",
+    "category": "Prayer",
+    "hadith": "The Prophet (ﷺ) said: 'Perform some of your prayers in your homes and do not make them graves.'",
+    "benefit": "Brings blessings and light to the home",
+    "source": "Bukhari 432, Muslim 777"
+  },
+  {
+    "id": 178,
+    "title": "Don't Waste Food",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) said: 'When one of you eats, he should not wipe his hand until he licks it or has it licked, for he does not know in which part of his food the blessing lies.'",
+    "benefit": "Respect for Allah's provisions and avoiding waste",
+    "source": "Muslim 2033"
+  },
+  {
+    "id": 179,
+    "title": "Use Perfume",
+    "category": "Hygiene",
+    "hadith": "The Prophet (ﷺ) never refused perfume.",
+    "benefit": "Good hygiene and following the Sunnah",
+    "source": "Bukhari 5929"
+  },
+  {
+    "id": 180,
+    "title": "Recite Quran After Fajr",
+    "category": "Quran",
+    "hadith": "The Prophet (ﷺ) used to recite the Quran after Fajr prayer.",
+    "benefit": "A blessed time for worship and remembrance",
+    "source": "Muslim 861"
+  },
+  {
+    "id": 181,
+    "title": "Supplicate for Guidance",
+    "category": "Dua",
+    "hadith": "The Prophet (ﷺ) said: 'O Allah, guide me among those whom You have guided.'",
+    "benefit": "Seeking Allah's continuous guidance in life",
+    "source": "Abu Dawud 1425, Tirmidhi 464"
+  },
+  {
+    "id": 182,
+    "title": "Forgive and Overlook Faults",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'Show forgiveness, enjoin what is good, and turn away from the ignorant.'",
+    "benefit": "Promotes harmony and good character",
+    "source": "Quran 7:199"
+  },
+  {
+    "id": 183,
+    "title": "Attend Congregational Prayer",
+    "category": "Prayer",
+    "hadith": "The Prophet (ﷺ) said: 'There is no prayer for the one who does not attend the mosque.'",
+    "benefit": "Emphasizes the importance of communal prayer",
+    "source": "Ibn Majah 793"
+  },
+  {
+    "id": 184,
+    "title": "Be Humble",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever humbles himself for Allah, Allah will raise his status.'",
+    "benefit": "Leads to honor and respect from Allah and people",
+    "source": "Muslim 2699"
+  },
+  {
+    "id": 185,
+    "title": "Speak Softly",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'Indeed, Allah is gentle and loves gentleness.'",
+    "benefit": "Gentle speech reflects good character and earns Allah's love",
+    "source": "Muslim 2593"
+  },
+  {
+    "id": 186,
+    "title": "Give Charity Secretly and Openly",
+    "category": "Charity",
+    "hadith": "Allah says in the Quran: 'Those who spend their wealth [in Allah's way] by night and by day, secretly and publicly - they will have their reward with their Lord.'",
+    "benefit": "Earns continuous reward and blessings",
+    "source": "Quran 2:274"
+  },
+  {
+    "id": 187,
+    "title": "Control Your Wealth",
+    "category": "Business",
+    "hadith": "The Prophet (ﷺ) said: 'A time will come when a man will not care where he gets his money from, whether lawful or unlawful.'",
+    "benefit": "Encourages lawful earnings and financial integrity",
+    "source": "Bukhari 2059"
+  },
+  {
+    "id": 188,
+    "title": "Be Thankful for Small Things",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'He who does not thank people, does not thank Allah.'",
+    "benefit": "Cultivates gratitude towards Allah and people",
+    "source": "Abu Dawud 4811"
+  },
+  {
+    "id": 189,
+    "title": "Maintain Good Relations with Neighbors",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Jibril kept recommending me to treat neighbors well until I thought he would make them heirs.'",
+    "benefit": "Strengthens community bonds and earns reward",
+    "source": "Bukhari 6014, Muslim 2624"
+  },
+  {
+    "id": 190,
+    "title": "Keep Promises and Covenants",
+    "category": "Justice",
+    "hadith": "Allah says in the Quran: 'And fulfill [every] commitment. Indeed, [every] commitment will be questioned about.'",
+    "benefit": "Upholds integrity and accountability",
+    "source": "Quran 17:34"
+  },
+  {
+    "id": 191,
+    "title": "Be Patient in Adversity",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'No fatigue, nor disease, nor sorrow, nor sadness, nor hurt, nor distress befalls a Muslim, even if it were the prick of a thorn, but Allah expiates some of his sins thereby.'",
+    "benefit": "Hardships become a means of expiating sins",
+    "source": "Bukhari 5641, Muslim 2573"
+  },
+  {
+    "id": 192,
+    "title": "Seek Knowledge",
+    "category": "Learning",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever travels a path in search of knowledge, Allah will make easy for him a path to Paradise.'",
+    "benefit": "Leads to spiritual elevation, increases wisdom, and eases the path to Jannah",
+    "source": "Muslim 2699"
+  },
+  {
+    "id": 193,
+    "title": "Pray Tahajjud Regularly",
+    "category": "Prayer",
+    "hadith": "The Prophet (ﷺ) said: 'The best prayer after the obligatory ones is the night prayer.'",
+    "benefit": "Increases proximity to Allah, answers prayers, and purifies the soul",
+    "source": "Muslim 1163"
+  },
+  {
+    "id": 194,
+    "title": "Be Kind to the Young",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'He is not one of us who does not show mercy to our young and respect our elders.'",
+    "benefit": "Fosters a compassionate and respectful community",
+    "source": "Tirmidhi 1919"
+  },
+  {
+    "id": 195,
+    "title": "Fulfill the Rights of Muslims",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'The rights of a Muslim upon other Muslims are five: to return the salam, to visit the sick, to follow the funeral procession, to accept invitations, and to say 'Yarhamukallah' (May Allah have mercy on you) when one sneezes.'",
+    "benefit": "Strengthens brotherhood and communal harmony",
+    "source": "Bukhari 1240, Muslim 2162"
+  },
+  {
+    "id": 196,
+    "title": "Avoid Disputes and Arguments",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'I guarantee a house in the surroundings of Paradise for a man who gives up arguing even if he is in the right.'",
+    "benefit": "Promotes peace and avoids animosity",
+    "source": "Abu Dawud 4800"
+  },
+  {
+    "id": 197,
+    "title": "Be Generous",
+    "category": "Charity",
+    "hadith": "The Prophet (ﷺ) said: 'Allah is generous and loves generosity.'",
+    "benefit": "Earns Allah's love and blessings in wealth",
+    "source": "Tirmidhi 2795"
+  },
+  {
+    "id": 198,
+    "title": "Recite Ayatul Kursi After Every Prayer",
+    "category": "Dhikr",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever recites Ayatul Kursi after every obligatory prayer, nothing will prevent him from entering Paradise except death.'",
+    "benefit": "Guaranteed entry to Paradise",
+    "source": "Nasai, Sahih"
+  },
+  {
+    "id": 199,
+    "title": "Supplicate for Others",
+    "category": "Dua",
+    "hadith": "The Prophet (ﷺ) said: 'The supplication of a Muslim for his brother in his absence is answered. An angel is appointed at his head, and whenever he supplicates for good for his brother, the appointed angel says: 'Ameen, and for you the like thereof.''",
+    "benefit": "Earns blessings for oneself and others",
+    "source": "Muslim 2732"
+  },
+  {
+    "id": 200,
+    "title": "Read Quran Regularly",
+    "category": "Quran",
+    "hadith": "The Prophet (ﷺ) said: 'Recite the Quran, for it will come as an intercessor for its people on the Day of Resurrection.'",
+    "benefit": "Intercession on the Day of Judgment and spiritual guidance",
+    "source": "Muslim 804"
+  },
+  {
+    "id": 201,
+    "title": "Give Charity (Sadaqah)",
+    "category": "Charity",
+    "hadith": "The Prophet (ﷺ) said: 'Sadaqah extinguishes sin as water extinguishes fire.'",
+    "benefit": "Purifies wealth, expiates sins, and brings blessings",
+    "source": "Tirmidhi 614"
+  },
+  {
+    "id": 202,
+    "title": "Keep the Ties of Kinship",
+    "category": "Family",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever wishes to have his provision expanded and his life prolonged, let him maintain his ties of kinship.'",
+    "benefit": "A source of blessing in one's life and livelihood",
+    "source": "Bukhari 5986, Muslim 2557"
+  },
+  {
+    "id": 203,
+    "title": "Avoid Backbiting and Slander",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'Do you know what backbiting is?' They said, 'Allah and His Messenger know best.' He said: 'It is to mention about your brother something he dislikes.'",
+    "benefit": "Preserves honor, avoids major sins, and promotes unity",
+    "source": "Muslim 2589"
+  },
+  {
+    "id": 204,
+    "title": "Be Truthful",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'Indeed, truthfulness leads to righteousness, and righteousness leads to Paradise.'",
+    "benefit": "Leads to good deeds, earns trust, and is a path to Paradise",
+    "source": "Bukhari 6094, Muslim 2607"
+  },
+  {
+    "id": 205,
+    "title": "Visit the Sick",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Visit the sick, feed the hungry, and free the captive.'",
+    "benefit": "Earns great rewards, shows compassion, and strengthens community",
+    "source": "Bukhari 5373"
+  },
+  {
+    "id": 206,
+    "title": "Give Good Counsel",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'Religion is nasihah (sincere advice).'",
+    "benefit": "Strengthens faith, promotes well-being, and earns reward",
+    "source": "Muslim 55"
+  },
+  {
+    "id": 207,
+    "title": "Be Humble (Tawadu)",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever humbles himself for Allah, Allah will raise his status.'",
+    "benefit": "Leads to honor, respect, and increases closeness to Allah",
+    "source": "Muslim 2699"
+  },
+  {
+    "id": 208,
+    "title": "Forgive Others",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'Be merciful to others and you will receive mercy. Forgive, and Allah will forgive you.'",
+    "benefit": "Earns Allah’s mercy and forgiveness, brings inner peace",
+    "source": "Musnad Ahmad 7001"
+  },
+  {
+    "id": 209,
+    "title": "Control Your Tongue",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever believes in Allah and the Last Day, let him speak good or remain silent.'",
+    "benefit": "Prevents sins of the tongue, earns good deeds, and promotes wisdom",
+    "source": "Bukhari 6018, Muslim 47"
+  },
+  {
+    "id": 210,
+    "title": "Pray Tahajjud",
+    "category": "Prayer",
+    "hadith": "The Prophet (ﷺ) said: 'The best prayer after the obligatory ones is the night prayer.'",
+    "benefit": "Increases proximity to Allah, answers prayers, and purifies the soul",
+    "source": "Muslim 1163"
+  },
+  {
+    "id": 211,
+    "title": "Give Water to the Thirsty",
+    "category": "Charity",
+    "hadith": "The Prophet (ﷺ) said: 'The best form of charity is giving someone water to drink.'",
+    "benefit": "A simple act with immense reward, saves lives",
+    "source": "Ahmad 23408"
+  },
+  {
+    "id": 212,
+    "title": "Be Patient in Calamity",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'Patience is at the first strike of calamity.'",
+    "benefit": "Earns Allah's reward, expiates sins, and brings inner strength",
+    "source": "Bukhari 1283, Muslim 926"
+  },
+  {
+    "id": 213,
+    "title": "Seek Knowledge",
+    "category": "Learning",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever travels a path in search of knowledge, Allah will make easy for him a path to Paradise.'",
+    "benefit": "Leads to spiritual elevation, increases wisdom, and eases the path to Jannah",
+    "source": "Muslim 2699"
+  },
+  {
+    "id": 214,
+    "title": "Attend Congregational Prayers",
+    "category": "Prayer",
+    "hadith": "The Prophet (ﷺ) said: 'Prayer in congregation is twenty-seven times more rewarding than prayer performed alone.'",
+    "benefit": "Multiplies the reward of prayer and strengthens the community",
+    "source": "Bukhari 645, Muslim 650"
+  },
+  {
+    "id": 215,
+    "title": "Cleanliness (Taharah)",
+    "category": "Hygiene",
+    "hadith": "The Prophet (ﷺ) said: 'Purity is half of faith.'",
+    "benefit": "Emphasizes physical and spiritual cleanliness, earns reward",
+    "source": "Muslim 223"
+  },
+  {
+    "id": 216,
+    "title": "Remove Harm from the Road",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Removing a harmful thing from the road is charity.'",
+    "benefit": "A simple act of kindness that earns immense reward, benefits society",
+    "source": "Bukhari 247, Muslim 261"
+  },
+  {
+    "id": 217,
+    "title": "Be Trustworthy",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'There is no faith for one who has no trustworthiness.'",
+    "benefit": "Foundation of strong character, earns trust from Allah and people",
+    "source": "Ahmad 12567"
+  },
+  {
+    "id": 218,
+    "title": "Visit Graveyards for Reflection",
+    "category": "Reflection",
+    "hadith": "The Prophet (ﷺ) said: 'Visit the graves, for they remind you of death.'",
+    "benefit": "Softens the heart, reminds of the Hereafter, and encourages good deeds",
+    "source": "Muslim 976"
+  },
+  {
+    "id": 219,
+    "title": "Give Charity to Relatives",
+    "category": "Charity",
+    "hadith": "The Prophet (ﷺ) said: 'Charity given to the poor is charity, but charity given to a relative is two-fold: charity and maintaining kinship.'",
+    "benefit": "Double reward for helping family, strengthens family bonds",
+    "source": "Tirmidhi 658"
+  },
+  {
+    "id": 220,
+    "title": "Supplicate for Your Parents",
+    "category": "Dua",
+    "hadith": "The Prophet (ﷺ) said: 'When a man dies, his deeds come to an end except for three: ongoing charity, beneficial knowledge, or a righteous child who supplicates for him.'",
+    "benefit": "A continuous source of reward for parents after their death",
+    "source": "Muslim 1631"
+  },
+  {
+    "id": 221,
+    "title": "Be Kind to Animals",
+    "category": "Compassion",
+    "hadith": "The Prophet (ﷺ) said: 'There is a reward for kindness to every living thing.'",
+    "benefit": "Earns reward and shows mercy to Allah's creation",
+    "source": "Bukhari 2363, Muslim 2244"
+  },
+  {
+    "id": 222,
+    "title": "Avoid Suspicion",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'Beware of suspicion, for suspicion is the most false of speech.'",
+    "benefit": "Maintains good relations and avoids false accusations",
+    "source": "Bukhari 6066, Muslim 2563"
+  },
+  {
+    "id": 223,
+    "title": "Speak Truthfully",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'Truthfulness leads to righteousness, and righteousness leads to Paradise.'",
+    "benefit": "A path to righteousness and ultimately, Paradise",
+    "source": "Bukhari 6094, Muslim 2607"
+  },
+  {
+    "id": 224,
+    "title": "Control Your Anger",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'The strong man is not the one who can overpower others; rather, the strong man is the one who controls himself when he is angry.'",
+    "benefit": "A sign of true strength and self-control",
+    "source": "Bukhari 6114, Muslim 2609"
+  },
+  {
+    "id": 225,
+    "title": "Be Patient",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'No one has been given a gift better and more comprehensive than patience.'",
+    "benefit": "A key to enduring hardship and gaining Allah's favor",
+    "source": "Bukhari 1469, Muslim 1053"
+  },
+  {
+    "id": 226,
+    "title": "Give Gifts to Increase Love",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Exchange gifts, and you will love one another.'",
+    "benefit": "A simple way to foster love and strengthen relationships",
+    "source": "Al-Adab Al-Mufrad 594"
+  },
+  {
+    "id": 227,
+    "title": "Help Those in Debt",
+    "category": "Charity",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever grants relief to a debtor in difficulty, Allah will grant him relief in this world and the Hereafter.'",
+    "benefit": "A means of attaining Allah's help and relief",
+    "source": "Muslim 2699"
+  },
+  {
+    "id": 228,
+    "title": "Visit the Sick",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'When a Muslim visits his sick brother, he is in the midst of the fruits of Paradise until he returns.'",
+    "benefit": "A great reward for a simple act of compassion",
+    "source": "Muslim 2568"
+  },
+  {
+    "id": 229,
+    "title": "Follow the Funeral Prayer",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever follows a funeral procession until the prayer is offered will have a Qirat of reward, and whoever follows it until the burial is completed will have two Qirats of reward.'",
+    "benefit": "An immense reward for fulfilling a communal duty",
+    "source": "Bukhari 1325, Muslim 945"
+  },
+  {
+    "id": 230,
+    "title": "Be a Good Neighbor",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'He is not a believer whose neighbor is not safe from his harm.'",
+    "benefit": "A fundamental aspect of faith and community life",
+    "source": "Bukhari 6016, Muslim 46"
+  },
+  {
+    "id": 231,
+    "title": "Honor Your Guest",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever believes in Allah and the Last Day, let him honor his guest.'",
+    "benefit": "A sign of strong faith and good character",
+    "source": "Bukhari 6138, Muslim 47"
+  },
+  {
+    "id": 232,
+    "title": "Seek Knowledge",
+    "category": "Learning",
+    "hadith": "The Prophet (ﷺ) said: 'The seeking of knowledge is obligatory for every Muslim.'",
+    "benefit": "A lifelong duty that brings one closer to Allah",
+    "source": "Ibn Majah 224"
+  },
+  {
+    "id": 233,
+    "title": "Pray in Congregation",
+    "category": "Prayer",
+    "hadith": "The Prophet (ﷺ) said: 'Prayer in congregation is twenty-seven times more rewarding than prayer performed alone.'",
+    "benefit": "Multiplies the reward of prayer and strengthens the community",
+    "source": "Bukhari 645, Muslim 650"
+  },
+  {
+    "id": 234,
+    "title": "Remember Allah",
+    "category": "Dhikr",
+    "hadith": "The Prophet (ﷺ) said: 'The remembrance of Allah is a cure for the hearts.'",
+    "benefit": "A source of peace, tranquility, and spiritual healing",
+    "source": "Bayhaqi"
+  },
+  {
+    "id": 235,
+    "title": "Read the Quran",
+    "category": "Quran",
+    "hadith": "The Prophet (ﷺ) said: 'The best of you are those who learn the Quran and teach it.'",
+    "benefit": "A path to becoming the best in the sight of Allah",
+    "source": "Bukhari 5027"
+  },
+  {
+    "id": 236,
+    "title": "Fast Voluntarily",
+    "category": "Fasting",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever fasts one day for the sake of Allah, Allah will keep his face seventy years' distance from the Hellfire.'",
+    "benefit": "A great protection from the Hellfire",
+    "source": "Bukhari 2840, Muslim 1153"
+  },
+  {
+    "id": 237,
+    "title": "Give Charity",
+    "category": "Charity",
+    "hadith": "The Prophet (ﷺ) said: 'Charity does not decrease wealth.'",
+    "benefit": "A means of increasing blessings and reward, not diminishing wealth",
+    "source": "Muslim 2588"
+  },
+  {
+    "id": 238,
+    "title": "Maintain Family Ties",
+    "category": "Family",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever wishes to have his provision expanded and his life prolonged, let him maintain his ties of kinship.'",
+    "benefit": "Increases lifespan and provision, strengthens family bonds",
+    "source": "Bukhari 5986, Muslim 2557"
+  },
+  {
+    "id": 239,
+    "title": "Be Kind to Parents",
+    "category": "Family",
+    "hadith": "The Prophet (ﷺ) said: 'The pleasure of the Lord is in the parent's pleasure, and the Lord's anger is in the parent's anger.'",
+    "benefit": "A direct path to earning Allah's pleasure",
+    "source": "Tirmidhi 1899"
+  },
+  {
+    "id": 240,
+    "title": "Say Bismillah Before Eating",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) said: 'When one of you eats, let him mention the name of Allah. If he forgets to mention the name of Allah at the beginning, let him say: Bismillahi awwaluhu wa aakhiruhu (In the name of Allah at the beginning and at the end).'",
+    "benefit": "Brings blessings to your food and protects from harm",
+    "source": "Abu Dawud 3767, Tirmidhi 1858"
+  },
+  {
+    "id": 241,
+    "title": "Eat with Your Right Hand",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) said: 'When one of you eats, let him eat with his right hand, and when he drinks, let him drink with his right hand, for the Shaytan eats with his left hand and drinks with his left hand.'",
+    "benefit": "Follows the Sunnah and avoids the way of Shaytan",
+    "source": "Muslim 2020"
+  },
+  {
+    "id": 242,
+    "title": "Eat from What is Closest to You",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) said: 'O boy, mention the name of Allah, eat with your right hand, and eat from what is closest to you.'",
+    "benefit": "Shows good manners and prevents waste",
+    "source": "Bukhari 5376, Muslim 2022"
+  },
+  {
+    "id": 243,
+    "title": "Don't Blow on Hot Food",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) never blew on food or drink, nor did he breathe into a vessel.",
+    "benefit": "Maintains cleanliness and good manners",
+    "source": "Abu Dawud 3788"
+  },
+  {
+    "id": 244,
+    "title": "Say Alhamdulillah After Eating",
+    "category": "Eating",
+    "hadith": "The Prophet (ﷺ) said: 'Allah is pleased with His slave when he eats something and praises Him for it, or drinks something and praises Him for it.'",
+    "benefit": "Shows gratitude to Allah and earns His pleasure",
+    "source": "Muslim 2734"
+  },
+  {
+    "id": 245,
+    "title": "Sleep on Your Right Side",
+    "category": "Sleeping",
+    "hadith": "The Prophet (ﷺ) said: 'When you go to bed, perform ablution as you do for prayer, then lie on your right side.'",
+    "benefit": "Better for health and follows the Sunnah",
+    "source": "Bukhari 6311, Muslim 2710"
+  },
+  {
+    "id": 246,
+    "title": "Recite Ayat Al-Kursi Before Sleeping",
+    "category": "Sleeping",
+    "hadith": "The Prophet (ﷺ) said: 'When you go to bed, recite Ayat Al-Kursi, for there will remain with you a protector from Allah, and no Shaytan will approach you until morning.'",
+    "benefit": "Protection from Shaytan throughout the night",
+    "source": "Bukhari 2311"
+  },
+  {
+    "id": 247,
+    "title": "Say the Bedtime Dua",
+    "category": "Sleeping",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever recites this dua before sleeping will not die that night: Bismika Rabbi wa da'atu janbi wa bika arfa'uhu, fa in amsakta nafsi farhamha, wa in arsaltaha fahfazha bima tahfazu bihi 'ibadakas-saliheen.'",
+    "benefit": "Protection and mercy from Allah",
+    "source": "Bukhari 6315, Muslim 2714"
+  },
+  {
+    "id": 248,
+    "title": "Greet with Assalamu Alaikum",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'You will not enter Paradise until you believe, and you will not believe until you love one another. Shall I tell you something which, if you do it, you will love one another? Spread the greeting of peace among yourselves.'",
+    "benefit": "Strengthens brotherhood and earns rewards",
+    "source": "Muslim 54"
+  },
+  {
+    "id": 249,
+    "title": "Smile at Your Brother",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Smiling in the face of your brother is charity.'",
+    "benefit": "Counts as charity and spreads happiness",
+    "source": "Tirmidhi 1956"
+  },
+  {
+    "id": 250,
+    "title": "Visit the Sick",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Feed the hungry, visit the sick, and free the captives.'",
+    "benefit": "Shows compassion and earns great rewards",
+    "source": "Bukhari 5649"
+  },
+  {
+    "id": 251,
+    "title": "Help Your Brother",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Allah helps His slave as long as the slave helps his brother.'",
+    "benefit": "Allah's help comes to those who help others",
+    "source": "Muslim 2699"
+  },
+  {
+    "id": 252,
+    "title": "Enter with Your Right Foot",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) used to enter with his right foot and exit with his left foot.",
+    "benefit": "Follows the Sunnah in daily actions",
+    "source": "Abu Dawud 4186"
+  },
+  {
+    "id": 253,
+    "title": "Say Bismillah Before Entering Home",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'When a man enters his house and mentions the name of Allah when entering and when eating, the Shaytan says to his companions: 'You will find no place to spend the night and no dinner.''",
+    "benefit": "Protection from Shaytan in your home",
+    "source": "Muslim 2018"
+  },
+  {
+    "id": 254,
+    "title": "Wear Clothes Starting with Right Side",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) used to prefer to start with the right side when putting on his shoes, combing his hair, performing ablution, and in all his affairs.",
+    "benefit": "Follows the Sunnah in daily routine",
+    "source": "Bukhari 168, Muslim 268"
+  },
+  {
+    "id": 255,
+    "title": "Remove Shoes with Left Foot",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) used to remove his shoes starting with the left foot.",
+    "benefit": "Follows the Sunnah in daily actions",
+    "source": "Abu Dawud 4140"
+  },
+  {
+    "id": 256,
+    "title": "Say Dua Before Entering Bathroom",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'When entering the bathroom, say: Allahumma inni a'udhu bika minal-khubuthi wal-khaba'ith (O Allah, I seek refuge with You from evil and evil-doers).'",
+    "benefit": "Protection from evil and bad things",
+    "source": "Bukhari 142, Muslim 375"
+  },
+  {
+    "id": 257,
+    "title": "Say Dua After Leaving Bathroom",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'When leaving the bathroom, say: Ghufranak (I seek Your forgiveness).'",
+    "benefit": "Seeks forgiveness and shows gratitude",
+    "source": "Abu Dawud 30, Tirmidhi 7"
+  },
+  {
+    "id": 258,
+    "title": "Use Miswak (Tooth Stick)",
+    "category": "Hygiene",
+    "hadith": "The Prophet (ﷺ) said: 'Were it not for the fact that I did not want to make things too hard for my Ummah, I would have commanded them to use the Miswak before every prayer.'",
+    "benefit": "Cleans mouth and earns rewards",
+    "source": "Bukhari 887, Muslim 252"
+  },
+  {
+    "id": 259,
+    "title": "Trim Your Nails",
+    "category": "Hygiene",
+    "hadith": "The Prophet (ﷺ) said: 'Five things are from the Fitrah: circumcision, shaving the pubic hair, trimming the moustache, cutting the nails, and plucking the armpit hair.'",
+    "benefit": "Maintains cleanliness and follows Fitrah",
+    "source": "Bukhari 5889, Muslim 257"
+  },
+  {
+    "id": 260,
+    "title": "Say Dua Before Looking in Mirror",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) used to say when looking in the mirror: 'Alhamdulillah, as you have made my form beautiful, make my character beautiful as well.'",
+    "benefit": "Reminds us to beautify our character",
+    "source": "Ibn Majah 3800"
+  },
+  {
+    "id": 261,
+    "title": "Dua When It Rains",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'When it rains, say: Allahumma sayyiban nafi'an (O Allah, make it a beneficial rain).'",
+    "benefit": "Turns rain into a blessing",
+    "source": "Bukhari 1032"
+  },
+  {
+    "id": 262,
+    "title": "Control Your Gaze",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'The zina of the eyes is looking (at what is forbidden).'",
+    "benefit": "Protects from temptation",
+    "source": "Bukhari 6243"
+  },
+  {
+    "id": 263,
+    "title": "Avoid Suspicion of Pious People",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'Avoid suspicion, for suspicion is the most false of tales.'",
+    "benefit": "Maintains trust and unity",
+    "source": "Bukhari 6066"
+  },
+  {
+    "id": 264,
+    "title": "Be Kind to Your Servants",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'They are your brothers and your servants whom Allah has placed under your authority. So, if a man has his brother under him, he should feed him from what he eats and dress him from what he wears.'",
+    "benefit": "Promotes justice and compassion",
+    "source": "Bukhari 30"
+  },
+  {
+    "id": 265,
+    "title": "Pray Two Rak'ahs When Entering Masjid",
+    "category": "Prayer",
+    "hadith": "The Prophet (ﷺ) said: 'If any one of you enters a mosque, he should pray two rak'ahs before sitting.'",
+    "benefit": "Honors the mosque and earns reward",
+    "source": "Bukhari 1167"
+  },
+  {
+    "id": 266,
+    "title": "Dua After Adhan",
+    "category": "Dua",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever says after hearing the adhan: 'Allahumma Rabba hadhihi-d-da'wati-t-tammah... my intercession for him will be permitted on the Day of Resurrection.'",
+    "benefit": "Earns the Prophet's intercession",
+    "source": "Bukhari 614"
+  },
+  {
+    "id": 267,
+    "title": "Be Humble in Your Dealings",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'Whoever humbles himself before Allah, Allah will raise him.'",
+    "benefit": "Leads to honor from Allah",
+    "source": "Muslim 2588"
+  },
+  {
+    "id": 268,
+    "title": "Avoid Cursing",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'The believer is not a slanderer, nor a curser, nor is he obscene or vulgar.'",
+    "benefit": "Maintains pure and respectful speech",
+    "source": "Tirmidhi 1977"
+  },
+  {
+    "id": 269,
+    "title": "Be Patient with Your Family",
+    "category": "Family",
+    "hadith": "The Prophet (ﷺ) said: 'The best of you is the one who is best to his family, and I am the best of you to my family.'",
+    "benefit": "A sign of true excellence",
+    "source": "Tirmidhi 3895"
+  },
+  {
+    "id": 270,
+    "title": "Dua When Leaving Home",
+    "category": "Daily",
+    "hadith": "The Prophet (ﷺ) said: 'When a man leaves his house and says: Bismillah, tawakkaltu 'alallah, wa la hawla wa la quwwata illa billah... it will be said to him: You are guided, defended, and protected.'",
+    "benefit": "Provides divine protection",
+    "source": "Abu Dawud 5095"
+  },
+  {
+    "id": 271,
+    "title": "Give Your Body Its Right",
+    "category": "Health",
+    "hadith": "The Prophet (ﷺ) said: 'Your body has a right over you.'",
+    "benefit": "Encourages self-care and health",
+    "source": "Bukhari 1975"
+  },
+  {
+    "id": 272,
+    "title": "Use Pleasant Names",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'The most beloved of your names to Allah are 'Abdullah and 'Abdur-Rahman.'",
+    "benefit": "Encourages beautiful and meaningful names",
+    "source": "Muslim 2132"
+  },
+  {
+    "id": 273,
+    "title": "Avoid Sleeping on Your Stomach",
+    "category": "Sleeping",
+    "hadith": "The Prophet (ﷺ) said: 'This is a posture that Allah dislikes.'",
+    "benefit": "Promotes healthy sleeping habits",
+    "source": "Abu Dawud 5040"
+  },
+  {
+    "id": 274,
+    "title": "Be Grateful for Blessings",
+    "category": "Character",
+    "hadith": "The Prophet (ﷺ) said: 'He who does not thank the people does not thank Allah.'",
+    "benefit": "Builds a grateful heart",
+    "source": "Abu Dawud 4811"
+  },
+  {
+    "id": 275,
+    "title": "Avoid Imitating the Opposite Gender",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) cursed men who imitate women and women who imitate men.",
+    "benefit": "Maintains natural gender roles",
+    "source": "Bukhari 5885"
+  },
+  {
+    "id": 276,
+    "title": "Be Merciful to the Creation",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'The merciful are shown mercy by the Most Merciful. Be merciful to those on the earth, and the One in the heavens will be merciful to you.'",
+    "benefit": "Invites Allah's mercy",
+    "source": "Tirmidhi 1924"
+  },
+  {
+    "id": 277,
+    "title": "Avoid Gossiping (Namimah)",
+    "category": "Manners",
+    "hadith": "The Prophet (ﷺ) said: 'A gossip-monger will not enter Paradise.'",
+    "benefit": "Protects relationships and unity",
+    "source": "Bukhari 6056"
+  },
+  {
+    "id": 278,
+    "title": "Make Peace Between People",
+    "category": "Social",
+    "hadith": "The Prophet (ﷺ) said: 'Shall I not tell you of something that is better than the status of fasting, prayer, and charity?' They said: 'Yes.' He said: 'Making peace between people.'",
+    "benefit": "A highly rewarding act",
+    "source": "Abu Dawud 4919"
+  },
+  {
+    "id": 279,
+    "title": "Be Easy-Going in Business",
+    "category": "Business",
+    "hadith": "The Prophet (ﷺ) said: 'May Allah have mercy on a man who is lenient when he sells, when he buys, and when he demands his due.'",
+    "benefit": "Brings blessings to transactions",
+    "source": "Bukhari 2076"
+  },
+  {
+    "id": 280,
+    "title": "Memorize the Quran",
+    "category": "Quran",
+    "hadith": "The Prophet (ﷺ) said: 'It will be said to the companion of the Qur'an: 'Read and ascend, and recite as you used to recite in the world, for your status will be at the last verse you recite.'",
+    "benefit": "Elevates one's status in Paradise",
+    "source": "Abu Dawud 1464"
+  }
+]

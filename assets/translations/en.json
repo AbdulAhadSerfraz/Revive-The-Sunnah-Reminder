@@ -1,0 +1,160 @@
+{
+  "app_name": "Revive - The Sunnah Reminder",
+  "app_description": "A Flutter app to help Muslims revive forgotten Sunnahs with daily reminders and gamified motivation",
+  
+  "navigation": {
+    "home": "Home",
+    "all_sunnahs": "All Sunnahs",
+    "progress": "Progress",
+    "settings": "Settings"
+  },
+  
+  "home": {
+    "today_sunnah": "Today's Sunnah",
+    "mark_completed": "Mark as Completed",
+    "completed": "Completed ✓",
+    "pending": "Pending",
+    "no_sunnah_today": "No Sunnah for today",
+    "loading_sunnah": "Loading today's Sunnah..."
+  },
+  
+  "sunnahs": {
+    "search": "Search",
+    "search_placeholder": "Search Sunnahs...",
+    "category": "Category",
+    "source": "Source",
+    "hadith": "Hadith",
+    "benefit": "Benefit",
+    "no_results": "No Sunnahs found",
+    "loading": "Loading Sunnahs..."
+  },
+  
+  "categories": {
+    "eating": "Eating",
+    "sleeping": "Sleeping",
+    "social": "Social",
+    "daily": "Daily",
+    "hygiene": "Hygiene",
+    "prayer": "Prayer",
+    "travel": "Travel",
+    "worship": "Worship"
+  },
+  
+  "progress": {
+    "streak": "Streak",
+    "days": "Days",
+    "day": "Day",
+    "total_completed": "Total Completed",
+    "this_week": "This Week",
+    "this_month": "This Month",
+    "all_time": "All Time",
+    "no_progress": "No progress yet",
+    "keep_going": "Keep going!"
+  },
+  
+  "settings": {
+    "notifications": "Notifications",
+    "notification_time": "Notification Time",
+    "language": "Language",
+    "theme": "Theme",
+    "about": "About",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service",
+    "contact_support": "Contact Support",
+    "version": "Version",
+    "enable_notifications": "Enable Notifications",
+    "daily_reminder": "Daily Reminder"
+  },
+  
+  "themes": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "cancel": "Cancel",
+    "ok": "OK",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "done": "Done",
+    "next": "Next",
+    "previous": "Previous",
+    "continue": "Continue",
+    "back": "Back"
+  },
+  
+  "time": {
+    "am": "AM",
+    "pm": "PM",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+  },
+  
+  "errors": {
+    "network_error": "No internet connection. Please check your network settings.",
+    "timeout_error": "Request timed out. Please try again.",
+    "server_error": "Server error occurred. Please try again later.",
+    "unknown_error": "An unexpected error occurred. Please try again.",
+    "permission_denied": "Permission denied. Please grant the required permissions.",
+    "not_found": "Item not found.",
+    "invalid_data": "Invalid data received."
+  },
+  
+  "notifications": {
+    "daily_reminder_title": "Daily Sunnah Reminder",
+    "daily_reminder_body": "Time to practice today's Sunnah! Tap to see what's recommended.",
+    "completion_title": "Sunnah Completed!",
+    "completion_body": "Great job! You've completed today's Sunnah. Keep up the good work!",
+    "streak_milestone_title": "Streak Milestone!",
+    "streak_milestone_body": "Congratulations! You've maintained your streak for {count} days!"
+  },
+  
+  "accessibility": {
+    "home_tab": "Home tab",
+    "sunnahs_tab": "All Sunnahs tab",
+    "progress_tab": "Progress tab",
+    "settings_tab": "Settings tab",
+    "mark_completed_button": "Mark today's Sunnah as completed",
+    "search_field": "Search for Sunnahs",
+    "notification_toggle": "Toggle notifications",
+    "language_selector": "Select language",
+    "theme_selector": "Select theme"
+  },
+  
+  "plurals": {
+    "days_zero": "0 days",
+    "days_one": "1 day",
+    "days_other": "{count} days",
+    "sunnahs_zero": "0 Sunnahs",
+    "sunnahs_one": "1 Sunnah",
+    "sunnahs_other": "{count} Sunnahs",
+    "results_zero": "No results",
+    "results_one": "1 result",
+    "results_other": "{count} results"
+  }
+}"

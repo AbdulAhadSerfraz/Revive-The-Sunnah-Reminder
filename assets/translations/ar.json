@@ -1,0 +1,160 @@
+{
+  "app_name": "إحياء - منبه السنة",
+  "app_description": "تطبيق فلاتر لمساعدة المسلمين على إحياء السنن المنسية من خلال التذكيرات اليومية والتحفيز التفاعلي",
+  
+  "navigation": {
+    "home": "الرئيسية",
+    "all_sunnahs": "جميع السنن",
+    "progress": "التقدم",
+    "settings": "الإعدادات"
+  },
+  
+  "home": {
+    "today_sunnah": "سنة اليوم",
+    "mark_completed": "تم الإنجاز",
+    "completed": "مكتمل ✓",
+    "pending": "في الانتظار",
+    "no_sunnah_today": "لا توجد سنة لليوم",
+    "loading_sunnah": "جاري تحميل سنة اليوم..."
+  },
+  
+  "sunnahs": {
+    "search": "بحث",
+    "search_placeholder": "ابحث في السنن...",
+    "category": "الفئة",
+    "source": "المصدر",
+    "hadith": "الحديث",
+    "benefit": "الفائدة",
+    "no_results": "لم يتم العثور على سنن",
+    "loading": "جاري تحميل السنن..."
+  },
+  
+  "categories": {
+    "eating": "الأكل",
+    "sleeping": "النوم",
+    "social": "اجتماعي",
+    "daily": "يومي",
+    "hygiene": "النظافة",
+    "prayer": "الصلاة",
+    "travel": "السفر",
+    "worship": "العبادة"
+  },
+  
+  "progress": {
+    "streak": "الخط المتتالي",
+    "days": "أيام",
+    "day": "يوم",
+    "total_completed": "المجموع المكتمل",
+    "this_week": "هذا الأسبوع",
+    "this_month": "هذا الشهر",
+    "all_time": "كل الأوقات",
+    "no_progress": "لا يوجد تقدم بعد",
+    "keep_going": "استمر!"
+  },
+  
+  "settings": {
+    "notifications": "الإشعارات",
+    "notification_time": "وقت الإشعار",
+    "language": "اللغة",
+    "theme": "المظهر",
+    "about": "حول",
+    "privacy_policy": "سياسة الخصوصية",
+    "terms_of_service": "شروط الخدمة",
+    "contact_support": "اتصل بالدعم",
+    "version": "الإصدار",
+    "enable_notifications": "تمكين الإشعارات",
+    "daily_reminder": "تذكير يومي"
+  },
+  
+  "themes": {
+    "light": "فاتح",
+    "dark": "داكن",
+    "system": "النظام"
+  },
+  
+  "common": {
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "retry": "إعادة المحاولة",
+    "cancel": "إلغاء",
+    "ok": "موافق",
+    "save": "حفظ",
+    "delete": "حذف",
+    "edit": "تعديل",
+    "close": "إغلاق",
+    "yes": "نعم",
+    "no": "لا",
+    "done": "تم",
+    "next": "التالي",
+    "previous": "السابق",
+    "continue": "متابعة",
+    "back": "رجوع"
+  },
+  
+  "time": {
+    "am": "ص",
+    "pm": "م",
+    "monday": "الاثنين",
+    "tuesday": "الثلاثاء",
+    "wednesday": "الأربعاء",
+    "thursday": "الخميس",
+    "friday": "الجمعة",
+    "saturday": "السبت",
+    "sunday": "الأحد",
+    "january": "يناير",
+    "february": "فبراير",
+    "march": "مارس",
+    "april": "أبريل",
+    "may": "مايو",
+    "june": "يونيو",
+    "july": "يوليو",
+    "august": "أغسطس",
+    "september": "سبتمبر",
+    "october": "أكتوبر",
+    "november": "نوفمبر",
+    "december": "ديسمبر"
+  },
+  
+  "errors": {
+    "network_error": "لا يوجد اتصال بالإنترنت. يرجى التحقق من إعدادات الشبكة.",
+    "timeout_error": "انتهت مهلة الطلب. يرجى المحاولة مرة أخرى.",
+    "server_error": "حدث خطأ في الخادم. يرجى المحاولة مرة أخرى لاحقاً.",
+    "unknown_error": "حدث خطأ غير متوقع. يرجى المحاولة مرة أخرى.",
+    "permission_denied": "تم رفض الإذن. يرجى منح الأذونات المطلوبة.",
+    "not_found": "العنصر غير موجود.",
+    "invalid_data": "تم استلام بيانات غير صالحة."
+  },
+  
+  "notifications": {
+    "daily_reminder_title": "تذكير السنة اليومية",
+    "daily_reminder_body": "حان وقت ممارسة سنة اليوم! اضغط لرؤية ما هو موصى به.",
+    "completion_title": "تم إنجاز السنة!",
+    "completion_body": "عمل رائع! لقد أكملت سنة اليوم. استمر في العمل الجيد!",
+    "streak_milestone_title": "إنجاز الخط المتتالي!",
+    "streak_milestone_body": "تهانينا! لقد حافظت على خطك المتتالي لمدة {count} يوم!"
+  },
+  
+  "accessibility": {
+    "home_tab": "تبويب الرئيسية",
+    "sunnahs_tab": "تبويب جميع السنن",
+    "progress_tab": "تبويب التقدم",
+    "settings_tab": "تبويب الإعدادات",
+    "mark_completed_button": "تحديد سنة اليوم كمكتملة",
+    "search_field": "البحث في السنن",
+    "notification_toggle": "تبديل الإشعارات",
+    "language_selector": "اختيار اللغة",
+    "theme_selector": "اختيار المظهر"
+  },
+  
+  "plurals": {
+    "days_zero": "0 أيام",
+    "days_one": "يوم واحد",
+    "days_other": "{count} أيام",
+    "sunnahs_zero": "0 سنن",
+    "sunnahs_one": "سنة واحدة",
+    "sunnahs_other": "{count} سنن",
+    "results_zero": "لا توجد نتائج",
+    "results_one": "نتيجة واحدة",
+    "results_other": "{count} نتائج"
+  }
+}"
